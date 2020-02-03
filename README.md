@@ -1,189 +1,136 @@
-# 用友FED团队博客
-
-## 介绍
-
-> 用友FED团队博客，用于记录和沉淀团队内技术文章和工作生活感悟等内容。
-
-## `iuap design` 使用文档类文章
-
-- [深入理解iuap design-01-介绍](https://github.com/iuap-design/blog/issues/80)
-- [深入理解iuap design-02-当前问题分析](https://github.com/iuap-design/blog/issues/81)
-- [深入理解iuap design-03-破局](https://github.com/iuap-design/blog/issues/82)
-- [深入理解iuap design-04-设计语言](https://github.com/iuap-design/blog/issues/83)
-- [深入理解iuap design-05-neoui前端框架](https://github.com/iuap-design/blog/issues/84)
-- [深入理解iuap design-06-进击的grid](https://github.com/iuap-design/blog/issues/85)
-- [深入理解iuap design-07-前端基础库sparrow.js](https://github.com/iuap-design/blog/issues/86)
-- [深入理解iuap design-08-前端模板库，送给你的秘密花园](https://github.com/iuap-design/blog/issues/87)
-- [深入理解iuap design-09-个性化定制，随性百变](https://github.com/iuap-design/blog/issues/88)
-- [深入理解iuap design-10-丰富的样式板，你要的这里都有](https://github.com/iuap-design/blog/issues/89)
-- [深入理解iuap design-11-web页面设计器](https://github.com/iuap-design/blog/issues/90)
-- [深入理解iuap design-12-情定kero](https://github.com/iuap-design/blog/issues/91)
-- [深入理解iuap design-13-揭开后端datatable的秘密](https://github.com/iuap-design/blog/issues/92)
-- [深入理解iuap design-14-前端集成开发工具uba](https://github.com/iuap-design/blog/issues/93)
-- [深入理解iuap design-15-前端MVVM框架helix](https://github.com/iuap-design/blog/issues/94)
-- [iuap design是我送给你的礼物（1）](https://github.com/iuap-design/blog/issues/97)
-- [NeoUI使用情况全记录](https://github.com/iuap-design/blog/issues/98)
-- [web页面设计器体验详解](https://github.com/iuap-design/blog/issues/95)
-- [iUAP Design 相关名词的官方解释](https://github.com/iuap-design/blog/issues/43)
-- [iuap design 相关文档](https://github.com/iuap-design/blog/issues/119)
-- [iUAP Design 设计语言](https://github.com/iuap-design/blog/issues/7)
-- [解释一下什么是iuap design设计语言](https://github.com/iuap-design/blog/issues/103)
-
-## `iuap design` 源码分析系列文章
-
-- [【iuap design 源码分析系列】系列大纲](https://github.com/iuap-design/blog/issues/14)
-- [【iuap design 源码分析系列】双MVVM模型](https://github.com/iuap-design/blog/issues/23)
-- [【iuap design 源码分析系列】栅格布局源码分析](https://github.com/iuap-design/blog/issues/29)
-- [【iuap design 源码分析系列】dropdown 源码解读](https://github.com/iuap-design/blog/issues/48)
-- [【iuap design 源码分析系列】artTemplate在在官网中的应用](https://github.com/iuap-design/blog/issues/44)
-- [框架css梳理](https://github.com/iuap-design/blog/issues/6)
-- [iUAPDesign 主题色与更换机制](https://github.com/iuap-design/blog/issues/22)
-- [NeoUI 的控件机制](https://github.com/iuap-design/blog/issues/110)
-
-## `JavaScript` 系列文章
-
-- [JS实现继承的五种方式 ](https://github.com/iuap-design/blog/issues/96)
-- [JS中ScrollTop、ScrollHeight、ClientHeight、OffsetHeight等整理](https://github.com/iuap-design/blog/issues/38)
-- [Javascript 代码规范](https://github.com/iuap-design/blog/issues/39)
-- [JavaScript 函数继承的几种方法](https://github.com/iuap-design/blog/issues/96)
-- [正则基础](https://github.com/iuap-design/blog/issues/99)
-- [JavaScript代码覆盖率工具 Istanbul入门](https://github.com/iuap-design/blog/issues/100)
-- [js和jQuery跨域示例-请求实时天气](https://github.com/iuap-design/blog/issues/106)
-- [js中cookie介绍以及使用](https://github.com/iuap-design/blog/issues/107)
-- [深入JavaScript(1)：编写高质量JavaScript代码的基本要点](https://github.com/iuap-design/blog/issues/109)
-- [深入JavaScript(2)：全面解析Module模式](https://github.com/iuap-design/blog/issues/113)
-- [事件的传播](https://github.com/iuap-design/blog/issues/114)
-- [正则深入](https://github.com/iuap-design/blog/issues/116)
-- [Javascript本地存储](https://github.com/iuap-design/blog/issues/117)
-- [常用插入DOM节点方法性能分析](https://github.com/iuap-design/blog/issues/118)
-- [jquery Sortable](https://github.com/iuap-design/blog/issues/120)
-- [深入JavaScript(3)：立即执行的函数表达式](https://github.com/iuap-design/blog/issues/121)
-- [深入JavaScript(4)：原型和原型链](https://github.com/iuap-design/blog/issues/130)
-- [JS四种数据类型检测的方法](https://github.com/iuap-design/blog/issues/74)
-- [ES6箭头函数](https://github.com/iuap-design/blog/issues/138)
-- [JSDoc](https://github.com/iuap-design/blog/issues/169)
-
-## `CSS` 系列文章
-
-- [SCSS基础语法与在datatable项目中的运用](https://github.com/iuap-design/blog/issues/17)
-- [CSS3 Animation](https://github.com/iuap-design/blog/issues/52)
-- [CSS3 transition 笔记](https://github.com/iuap-design/blog/issues/40)
-- [浏览器兼容之浏览器版本处理](https://github.com/iuap-design/blog/issues/27)
-- [CSS-Grid Layout](https://github.com/iuap-design/blog/issues/78)
-- [Sass拾遗](https://github.com/iuap-design/blog/issues/101)
-- [CSS箭头－茴的几种写法](https://github.com/iuap-design/blog/issues/132)
-- [css选择器](https://github.com/iuap-design/blog/issues/133)
-- [CSS中规则@media的用法](https://github.com/iuap-design/blog/issues/136)
-- [响应式布局](https://github.com/iuap-design/blog/issues/165)
-- [flex实现圣杯布局](https://github.com/iuap-design/blog/issues/167)
-
-## `Webpack` 系列文章
-
-- [webpack 完全教程-01-介绍](https://github.com/iuap-design/blog/issues/57)
-- [webpack 完全教程-02-学习环境](https://github.com/iuap-design/blog/issues/58)
-- [webpack 完全教程-03-快速上手](https://github.com/iuap-design/blog/issues/59)
-- [webpack 完全教程-04-webpack 命令行说明](https://github.com/iuap-design/blog/issues/60)
-- [webpack 完全教程-05-webpack 集成 npm scripts](https://github.com/iuap-design/blog/issues/61)
-- [webpack 完全教程-06-编译css资源](https://github.com/iuap-design/blog/issues/62)
-- [webpack 完全教程-07-编译ES6代码](https://github.com/iuap-design/blog/issues/63)
-- [webpack 完全教程-08-使用UglifyJs Plugin压缩资源](https://github.com/iuap-design/blog/issues/64)
-- [webpack 完全教程-09-多入口文件编译](https://github.com/iuap-design/blog/issues/65)
-- [webpack 完全教程-10-devtool让源码在浏览器中可调试](https://github.com/iuap-design/blog/issues/66)
-- [webpack中require-ensure和require-amd的区别](https://github.com/iuap-design/blog/issues/131)
-- [webpack-dashboard让你的webpack具有可视化效果](https://github.com/iuap-design/blog/issues/153)
-- [package.json各个字段解读](https://github.com/iuap-design/blog/issues/156)
-
-## `React`系列文章
-- [基于Decorator的react组件扩展](https://github.com/iuap-design/blog/issues/128)
-- [React 组件库调研](https://github.com/iuap-design/blog/issues/134)
-- [React 快速入门学习](https://github.com/iuap-design/blog/issues/139)
-- [快速了解mobx+react](https://github.com/iuap-design/blog/issues/152)
 
 
-## `Knockoutjs`系列文章
+<p align='center'>
+    <img src="https://badgen.net/badge/labels/4"/>
+    <img src="https://badgen.net/github/issues/fydy/ghiblog"/>
+    <img src="https://badgen.net/badge/last-commit/2019-11-28 06:20:36"/>
+    <img src="https://badgen.net/github/forks/fydy/ghiblog"/>
+    <img src="https://badgen.net/github/stars/fydy/ghiblog"/>
+    <img src="https://badgen.net/github/watchers/fydy/ghiblog"/>
+    <img src="https://badgen.net/github/release/fydy/ghiblog"/>
+</p>
 
-- [Knockout入门](https://github.com/iuap-design/blog/issues/26)
-- [自己动手写Knockoutjs - 实现基本的双向数据绑定](https://github.com/iuap-design/blog/issues/30)
-- [自己动手写Knockoutjs - 实现计算属性和计算属性的依赖收集](https://github.com/iuap-design/blog/issues/32)
-- [自己动手写Knockoutjs - 可监控数组](https://github.com/iuap-design/blog/issues/49)
-- [自己动手写Knockoutjs - 判断observable对象的方法和更多的绑定](https://github.com/iuap-design/blog/issues/50)
-- [KO 的计算属性 computed 上篇](https://github.com/iuap-design/blog/issues/105)
-- [KO 的计算属性 computed 中篇](https://github.com/iuap-design/blog/issues/124)
-
-## `Gulp`系列文章
-
-- [Gulp配置](https://github.com/iuap-design/blog/issues/20)
-- [Gulp文件复制说起](https://github.com/iuap-design/blog/issues/41)
-
-## `Nodejs`系列文章
-
-- [Nodejs之process模块](https://github.com/iuap-design/blog/issues/46)
-- [Node FileSystem](https://github.com/iuap-design/blog/issues/47)
-- [Node调试](https://github.com/iuap-design/blog/issues/19)
-- [【转】同步与异步&阻塞与非阻塞](https://github.com/iuap-design/blog/issues/35)
-- [使用forever管理我们的app](https://github.com/iuap-design/blog/issues/24)
-- [Node-Stream入门示例(草稿)](https://github.com/iuap-design/blog/issues/70)
-- [使用node.js来实现简单爬虫](https://github.com/iuap-design/blog/issues/125)
-- [node的异步非阻塞特点解读](https://github.com/iuap-design/blog/issues/154)
+<p align='center'>
+    <a href="https://github.com/jwenjian/visitor-count-badge">
+        <img src="https://visitor-count-badge.herokuapp.com/total.svg?repo_id=fydy.isblog"/>
+    </a>
+    <a href="https://github.com/jwenjian/visitor-count-badge">
+        <img src="https://visitor-count-badge.herokuapp.com/today.svg?repo_id=fydy.isblog"/>
+    </a>
+</p>
+is
 
 
-## `es6`系列文章
-- [es6-cheatsheet](https://github.com/iuap-design/blog/issues/162)
+<p align='center'>
+<a href='https://github.com/fydy/isblog/issues/11#issuecomment-559358279'>
+<img src='https://user-images.githubusercontent.com/39726855/69781779-19238880-11ea-11ea-98dd-68cec19d1b02.jpg' width='50%' alt='
+业务交流'>
+</a>
+</p>
+<p align='center'>
+<span>
+业务交流</span>
+</p>
+
+    
+## 置顶 :thumbsup: 
+- [自动生成并更新GitHub Issue博客的ReadMe](https://github.com/fydy/isblog/issues/6)  <sup>0 :speech_balloon:</sup>  	 
+## 最新 :new: 
+
+#### [封面](https://github.com/fydy/isblog/issues/11) <sup>1 :speech_balloon:</sup> 	 2019-11-28 06:16:20
+
+:label: : [:framed_picture:封面](https://github.com/fydy/ghiblog/labels/%3Aframed_picture%3A%E5%B0%81%E9%9D%A2)
+
+![67074718-3eb97d00-f1bc-11e9-8f0c-19cfd0e942e6](https://user-images.githubusercontent.com/39726855/69781581-95699c00-11e9-11ea-88a0-9f68e8472f02.jpg)
 
 
-## 工具使用,技巧类文章
+[更多>>>](https://github.com/fydy/isblog/issues/11)
 
-- [使用jekyll快速搭建静态博客](https://github.com/iuap-design/blog/issues/3)
-- [windows上jekyll安装指南](https://github.com/iuap-design/blog/issues/2)
-- [Browsersync 调试手机端样式](https://github.com/iuap-design/blog/issues/21)
-- [gitbook插件开发](https://github.com/iuap-design/blog/issues/11)
-- [gitbook使用问题解决方案](https://github.com/iuap-design/blog/issues/9)
-- [Chrome调试相关](https://github.com/iuap-design/blog/issues/72)
-- [如何使用github发现优秀的开源项目](https://github.com/iuap-design/blog/issues/77)
-- [ESLint入门](https://github.com/iuap-design/blog/issues/126)
-- [教你使用gitbook和markdown来写一本书](https://github.com/iuap-design/blog/issues/135)
-- [git账号切换，提交代码被拒绝的问题](https://github.com/iuap-design/blog/issues/144)
-- [npm publish 发布失败常见错误总结](https://github.com/iuap-design/blog/issues/145)
-- [让你的md文档可折叠化展示](https://github.com/iuap-design/blog/issues/155)
-- [用isitmaintained来显示github上仓库的issue处理情况](https://github.com/iuap-design/blog/issues/157)
-- [注释提取与规范](https://github.com/iuap-design/blog/issues/166)
+---
 
-## 其它技术文章
 
-- [前端模板引擎学习](https://github.com/iuap-design/blog/issues/28)
-- [Requirejs简单应用](https://github.com/iuap-design/blog/issues/18)
-- [自己动手写Requirejs](https://github.com/iuap-design/blog/issues/79)
-- [iframe ](https://github.com/iuap-design/blog/issues/56)
-- [director.js：客户端的路由](https://github.com/iuap-design/blog/issues/67)
-- [IE8兼容处理](https://github.com/iuap-design/blog/issues/54)
-- [HTTP 缓存策略](https://github.com/iuap-design/blog/issues/55)
-- [material design中的波纹效果的原理与实现](https://github.com/iuap-design/blog/issues/69)
-- [ES6代码重构之class简单应用同时支持方法定制](https://github.com/iuap-design/blog/issues/71)
-- [简要分析ES5/6原型链继承](https://github.com/iuap-design/blog/issues/73)
-- [通俗易懂！超全面的移动端尺寸基础知识科普指南](https://github.com/iuap-design/blog/issues/75)
-- [JavaScript BDD Test：mocha + should.js的基本使用介绍](https://github.com/iuap-design/blog/issues/76)
-- [前端工程师所需要知道的CSRF跨站请求伪造攻击](https://github.com/iuap-design/blog/issues/108)
-- [curl初了解](https://github.com/iuap-design/blog/issues/123)
-- [浅谈前端的模块化(一)](https://github.com/iuap-design/blog/issues/137)
-- [ios9第三方应用滑动卡顿问题记录](https://github.com/iuap-design/blog/issues/147)
-- [动效微交互](https://github.com/iuap-design/blog/issues/149)
-- [企业级应用的国际化解决方案（前端部分）](https://github.com/iuap-design/blog/issues/158)
-- [使用json-server轻松模拟rest api](https://github.com/iuap-design/blog/issues/168)
-- [使用moy快速开发后台管理系统（一）](https://github.com/iuap-design/blog/issues/170)
-- [使用moy快速开发后台管理系统（二）](https://github.com/iuap-design/blog/issues/171)
-- [使用moy快速开发后台管理系统（三）](https://github.com/iuap-design/blog/issues/172)
-- [使用moy快速开发后台管理系统（四）](https://github.com/iuap-design/blog/issues/173)
-- [使用moy快速开发后台管理系统（五）](https://github.com/iuap-design/blog/issues/174)
+#### [qablog](https://github.com/fydy/isblog/issues/10) <sup>0 :speech_balloon:</sup> 	 2019-11-28 05:27:47
 
-## 工作思考感悟
+:label: : [开源](https://github.com/fydy/ghiblog/labels/%E5%BC%80%E6%BA%90)
 
-- [如何开发前端开源项目](https://github.com/iuap-design/blog/issues/45)
-- [对前端开发中组件、插件、控件的理解](https://github.com/iuap-design/blog/issues/5)
-- [更少，但更好](https://github.com/iuap-design/blog/issues/68)
-- [第一周工作感悟](https://github.com/iuap-design/blog/issues/10)
-- [6月12-6月17日~工作思考篇](https://github.com/iuap-design/blog/issues/13)
-- [对日常开发的两点建议](https://github.com/iuap-design/blog/issues/16)
-- [工欲善其事HHKB Pro2](https://github.com/iuap-design/blog/issues/104)
-- [iuap design官网中的页面修改及测试](https://github.com/iuap-design/blog/issues/122)
-- [下一步我们该怎么走](https://github.com/iuap-design/blog/issues/127)
-- [像写代码一样写文档，严谨！像写文档一样写代码，规范！](https://github.com/iuap-design/blog/issues/164)
+个人随笔
+
+[更多>>>](https://github.com/fydy/isblog/issues/10)
+
+---
+
+
+#### [isblog](https://github.com/fydy/isblog/issues/9) <sup>0 :speech_balloon:</sup> 	 2019-11-28 05:27:13
+
+:label: : [开源](https://github.com/fydy/ghiblog/labels/%E5%BC%80%E6%BA%90)
+
+github issue 自动生成readme
+
+[更多>>>](https://github.com/fydy/isblog/issues/9)
+
+---
+
+
+#### [自动生成并更新GitHub Issue博客的ReadMe](https://github.com/fydy/isblog/issues/6) <sup>0 :speech_balloon:</sup> 	 2019-11-28 04:21:15
+
+:label: : [:+1:置顶](https://github.com/fydy/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6), [good first issue](https://github.com/fydy/ghiblog/labels/good%20first%20issue)
+
+基于Github Action自动生成并更新GitHub Issue博客的ReadMe
+
+[更多>>>](https://github.com/fydy/isblog/issues/6)
+
+---
+
+
+## 分类  :card_file_box: 
+
+<details open="open">
+    <summary>
+        <img src="assets/wordcloud.png" title="词云, 点击展开详细分类" alt="词云， 点击展开详细分类">
+        <p align="center">:cloud: 词云 :cloud: <sub>点击词云展开详细分类:point_down: </sub></p>
+    </summary>
+
+
+<details>
+<summary>:+1:置顶	<sup>1:newspaper:</sup></summary>
+
+- [自动生成并更新GitHub Issue博客的ReadMe](https://github.com/fydy/isblog/issues/6)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>:framed_picture:封面	<sup>1:newspaper:</sup></summary>
+
+- [封面](https://github.com/fydy/isblog/issues/11)  <sup>1 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>good first issue	<sup>1:newspaper:</sup></summary>
+
+- [自动生成并更新GitHub Issue博客的ReadMe](https://github.com/fydy/isblog/issues/6)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>开源	<sup>2:newspaper:</sup></summary>
+
+- [qablog](https://github.com/fydy/isblog/issues/10)  <sup>0 :speech_balloon:</sup>  	 
+- [isblog](https://github.com/fydy/isblog/issues/9)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+
+</details>    
+
+# 开源项目
+
+
+| [qablog](https://github.com/fydy/qablog) | 个人随笔 | ![](https://badgen.net/github/stars/fydy/qablog) ![](https://badgen.net/github/forks/fydy/qablog) ![](https://badgen.net/github/watchers/fydy/qablog) |
+| --- | --- | --- |
+| [isblog](https://github.com/fydy/isblog) | github issue 自动生成readme | ![](https://badgen.net/github/stars/fydy/isblog) ![](https://badgen.net/github/forks/fydy/isblog) ![](https://badgen.net/github/watchers/fydy/isblog) |
+
