@@ -26,7 +26,7 @@ jobs:
         git config --global user.name "cklwblove"
     - name: commit change
       run: |
-        git checkout master
+        git checkout dev
         git add .
         git commit -m "Update from Github Action"
     - name: push change
