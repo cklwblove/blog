@@ -1,83 +1,99 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/4"/>
-    <img src="https://badgen.net/github/issues/fydy/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-11-28 06:20:36"/>
-    <img src="https://badgen.net/github/forks/fydy/ghiblog"/>
-    <img src="https://badgen.net/github/stars/fydy/ghiblog"/>
-    <img src="https://badgen.net/github/watchers/fydy/ghiblog"/>
-    <img src="https://badgen.net/github/release/fydy/ghiblog"/>
+    <img src="https://badgen.net/badge/labels/12"/>
+    <img src="https://badgen.net/github/issues/cklwblove/ghiblog"/>
+    <img src="https://badgen.net/badge/last-commit/2020-04-19 12:19:27"/>
+    <img src="https://badgen.net/github/forks/cklwblove/ghiblog"/>
+    <img src="https://badgen.net/github/stars/cklwblove/ghiblog"/>
+    <img src="https://badgen.net/github/watchers/cklwblove/ghiblog"/>
+    <img src="https://badgen.net/github/release/cklwblove/ghiblog"/>
 </p>
 
 <p align='center'>
     <a href="https://github.com/jwenjian/visitor-count-badge">
-        <img src="https://visitor-count-badge.herokuapp.com/total.svg?repo_id=fydy.isblog"/>
+        <img src="https://visitor-count-badge.herokuapp.com/total.svg?repo_id=cklwblove.isblog"/>
     </a>
     <a href="https://github.com/jwenjian/visitor-count-badge">
-        <img src="https://visitor-count-badge.herokuapp.com/today.svg?repo_id=fydy.isblog"/>
+        <img src="https://visitor-count-badge.herokuapp.com/today.svg?repo_id=cklwblove.isblog"/>
     </a>
 </p>
 is
 
-
-<p align='center'>
-<a href='https://github.com/fydy/isblog/issues/11#issuecomment-559358279'>
-<img src='https://user-images.githubusercontent.com/39726855/69781779-19238880-11ea-11ea-98dd-68cec19d1b02.jpg' width='50%' alt='
-业务交流'>
-</a>
-</p>
-<p align='center'>
-<span>
-业务交流</span>
-</p>
-
-    
 ## 置顶 :thumbsup: 
-- [自动生成并更新GitHub Issue博客的ReadMe](https://github.com/fydy/isblog/issues/6)  <sup>0 :speech_balloon:</sup>  	 
+- [微信浏览器H5页面软键盘关闭导致页面空缺的问题](https://github.com/cklwblove/blog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [封面](https://github.com/fydy/isblog/issues/11) <sup>1 :speech_balloon:</sup> 	 2019-11-28 06:16:20
+#### [vue 定时器问题](https://github.com/cklwblove/blog/issues/57) <sup>0 :speech_balloon:</sup> 	 2020-04-19 11:29:34
 
-:label: : [:framed_picture:封面](https://github.com/fydy/ghiblog/labels/%3Aframed_picture%3A%E5%B0%81%E9%9D%A2)
+:label: : 
 
-![67074718-3eb97d00-f1bc-11e9-8f0c-19cfd0e942e6](https://user-images.githubusercontent.com/39726855/69781581-95699c00-11e9-11ea-88a0-9f68e8472f02.jpg)
+你通常不会用到这些，但是当你需要在一个组件实例上手动侦听事件时，它们是派得上用场的。它们也可以用于代码组织工具。例如，你可能经常看到这种集成一个第三方库的模式：
 
+```
+// 一次性将这个日期选择器附加到一个输入框上
+// 它会被挂载到 DOM 上。
+mounted: function 
 
-[更多>>>](https://github.com/fydy/isblog/issues/11)
-
----
-
-
-#### [qablog](https://github.com/fydy/isblog/issues/10) <sup>0 :speech_balloon:</sup> 	 2019-11-28 05:27:47
-
-:label: : [开源](https://github.com/fydy/ghiblog/labels/%E5%BC%80%E6%BA%90)
-
-个人随笔
-
-[更多>>>](https://github.com/fydy/isblog/issues/10)
+[更多>>>](https://github.com/cklwblove/blog/issues/57)
 
 ---
 
 
-#### [isblog](https://github.com/fydy/isblog/issues/9) <sup>0 :speech_balloon:</sup> 	 2019-11-28 05:27:13
+#### [微信图片带有logo的二维码，有些机型长按不能识别](https://github.com/cklwblove/blog/issues/56) <sup>0 :speech_balloon:</sup> 	 2020-03-25 09:46:48
 
-:label: : [开源](https://github.com/fydy/ghiblog/labels/%E5%BC%80%E6%BA%90)
+:label: : 
 
-github issue 自动生成readme
 
-[更多>>>](https://github.com/fydy/isblog/issues/9)
+微信图片带有logo的二维码，有些机型长按不能识别？
+
+**解决方案：logo去掉**
+
+[更多>>>](https://github.com/cklwblove/blog/issues/56)
 
 ---
 
 
-#### [自动生成并更新GitHub Issue博客的ReadMe](https://github.com/fydy/isblog/issues/6) <sup>0 :speech_balloon:</sup> 	 2019-11-28 04:21:15
+#### [ElementUI如何展开指定Tree树节点](https://github.com/cklwblove/blog/issues/55) <sup>0 :speech_balloon:</sup> 	 2020-03-24 07:48:27
 
-:label: : [:+1:置顶](https://github.com/fydy/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6), [good first issue](https://github.com/fydy/ghiblog/labels/good%20first%20issue)
+:label: : 
 
-基于Github Action自动生成并更新GitHub Issue博客的ReadMe
+```
+<el-tree
+        ref="tree"
+        show-checkbox
+        :check-on-click-node="true"
+        :expand-on-click-node="true"
+        :data="ca
 
-[更多>>>](https://github.com/fydy/isblog/issues/6)
+[更多>>>](https://github.com/cklwblove/blog/issues/55)
+
+---
+
+
+#### [net::ERR_INCOMPLETE_CHUNKED_ENCODING 200](https://github.com/cklwblove/blog/issues/54) <sup>0 :speech_balloon:</sup> 	 2020-03-23 04:53:07
+
+:label: : 
+
+前端是vue写的,F12查看具体表现为发送了个 option后，不继续发post了,表面上表现是跨域问题，然后控制台报net::ERR_INCOMPLETE_CHUNKED_ENCODING,
+网上搜索了一下有磁盘满了、chrome的自身问题、tomcat版本和配置的问题,json返回的文本太大，
+
+[更多>>>](https://github.com/cklwblove/blog/issues/54)
+
+---
+
+
+#### [H5页面监听Android物理返回键](https://github.com/cklwblove/blog/issues/53) <sup>0 :speech_balloon:</sup> 	 2020-03-06 06:12:17
+
+:label: : 
+
+> Android物理返回键的点击事件，一般webview的默认行为是 window.history.go(-1) ，但是在实际需求场景下，简单的页面回退并不能满足需求，所以需要H5页面监听Android物理返回键从而自定义处理方法。
+
+```
+(function (pkg) {
+    v
+
+[更多>>>](https://github.com/cklwblove/blog/issues/53)
 
 ---
 
@@ -94,7 +110,7 @@ github issue 自动生成readme
 <details>
 <summary>:+1:置顶	<sup>1:newspaper:</sup></summary>
 
-- [自动生成并更新GitHub Issue博客的ReadMe](https://github.com/fydy/isblog/issues/6)  <sup>0 :speech_balloon:</sup>  	 
+- [微信浏览器H5页面软键盘关闭导致页面空缺的问题](https://github.com/cklwblove/blog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -102,24 +118,78 @@ github issue 自动生成readme
 <details>
 <summary>:framed_picture:封面	<sup>1:newspaper:</sup></summary>
 
-- [封面](https://github.com/fydy/isblog/issues/11)  <sup>1 :speech_balloon:</sup>  	 
+- [Vue项目部署遇到的问题及解决方案](https://github.com/cklwblove/blog/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
 
 <details>
-<summary>good first issue	<sup>1:newspaper:</sup></summary>
+<summary>bug	<sup>0:newspaper:</sup></summary>
 
-- [自动生成并更新GitHub Issue博客的ReadMe](https://github.com/fydy/isblog/issues/6)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
 
 <details>
-<summary>开源	<sup>2:newspaper:</sup></summary>
+<summary>duplicate	<sup>0:newspaper:</sup></summary>
 
-- [qablog](https://github.com/fydy/isblog/issues/10)  <sup>0 :speech_balloon:</sup>  	 
-- [isblog](https://github.com/fydy/isblog/issues/9)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>enhancement	<sup>0:newspaper:</sup></summary>
+
+
+
+</details>
+
+<details>
+<summary>good first issue	<sup>0:newspaper:</sup></summary>
+
+
+
+</details>
+
+<details>
+<summary>help wanted	<sup>0:newspaper:</sup></summary>
+
+
+
+</details>
+
+<details>
+<summary>invalid	<sup>0:newspaper:</sup></summary>
+
+
+
+</details>
+
+<details>
+<summary>question	<sup>0:newspaper:</sup></summary>
+
+
+
+</details>
+
+<details>
+<summary>reg	<sup>0:newspaper:</sup></summary>
+
+
+
+</details>
+
+<details>
+<summary>wontfix	<sup>0:newspaper:</sup></summary>
+
+
+
+</details>
+
+<details>
+<summary>开源	<sup>1:newspaper:</sup></summary>
+
+- [使用<a>标签时，你可能会忽略的一个安全问题](https://github.com/cklwblove/blog/issues/3)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -130,7 +200,23 @@ github issue 自动生成readme
 # 开源项目
 
 
-| [qablog](https://github.com/fydy/qablog) | 个人随笔 | ![](https://badgen.net/github/stars/fydy/qablog) ![](https://badgen.net/github/forks/fydy/qablog) ![](https://badgen.net/github/watchers/fydy/qablog) |
+| [使用<a>标签时，你可能会忽略的一个安全问题](https://github.com/cklwblove/使用<a>标签时，你可能会忽略的一个安全问题) | > [相关链接](https://segmentfault.com/a/1190000017840948)
+
+## 问题场景
+我们可以用 `target='_blank' `来实现**在一个新窗口中打开链接**。
+当一个外部链接使用了 `target=_blank` 的方式，这个外部链接会打开一个新的浏览器tab。此时，新页面会打开，并且和原始页面占用同一个进程。这也意味着，如果这个新页面有任何性能上的问题，比如有一个很高的加载时间，这也将会影响到原始页面的表现。如果你打开的是一个同域的页面，那么你将可以在新页面访问到原始页面的所有内容，包括`document`对象(`window.opener.documen`t)。如果你打开的是一个跨域的页面，你虽然无法访问到`document`，但是你依然可以访问到`location`对象。
+
+**如果你在你的站点或者文章中，嵌入了通过新窗口打开一个新页面的链接，这个新页面可以使用window.opener，在一定程度上来修改原始页面。**
+
+## 解决方案
+在带有`target="_blank"`的`<a>`标签中，加上`rel="noopener"`属性。如果使用`window.open`的方式打开页面，将`opener`对象置为空。这样的副作用是：在某些低版本浏览器中，新页面中拿不到`referer`信息。
+```
+// a 标签里
+<a href="https://niteshsoni.info" target="_blank" rel="noopener noreferrer"></a>
+
+// window.open
+var newWindow = window.open();
+newWindow.opener = null;
+``` | ![](https://badgen.net/github/stars/cklwblove/使用<a>标签时，你可能会忽略的一个安全问题) ![](https://badgen.net/github/forks/cklwblove/使用<a>标签时，你可能会忽略的一个安全问题) ![](https://badgen.net/github/watchers/cklwblove/使用<a>标签时，你可能会忽略的一个安全问题) |
 | --- | --- | --- |
-| [isblog](https://github.com/fydy/isblog) | github issue 自动生成readme | ![](https://badgen.net/github/stars/fydy/isblog) ![](https://badgen.net/github/forks/fydy/isblog) ![](https://badgen.net/github/watchers/fydy/isblog) |
 
