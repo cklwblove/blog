@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/18"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-04-20 06:03:07"/>
+    <img src="https://badgen.net/badge/last-commit/2020-04-20 06:04:11"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -115,9 +115,10 @@ mounted: function
 </details>
 
 <details>
-<summary>:art: Vue	<sup>1:newspaper:</sup></summary>
+<summary>:art: Vue	<sup>2:newspaper:</sup></summary>
 
 - [vue 定时器问题](https://github.com/cklwblove/blog/issues/57)  <sup>0 :speech_balloon:</sup>  	 
+- [Error in nextTick: "InvalidCharacterError: Failed to execute 'setAttribute' on 'Element': '`' is not a valid attribute name."](https://github.com/cklwblove/blog/issues/48)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -150,8 +151,9 @@ mounted: function
 </details>
 
 <details>
-<summary>Nodejs	<sup>0:newspaper:</sup></summary>
+<summary>Nodejs	<sup>1:newspaper:</sup></summary>
 
+- [linux中使用npm全局安装的命令无法运行](https://github.com/cklwblove/blog/issues/49)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
