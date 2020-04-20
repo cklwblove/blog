@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/19"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-04-20 06:05:47"/>
+    <img src="https://badgen.net/badge/last-commit/2020-04-20 06:06:55"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -170,10 +170,11 @@ mounted: function
 </details>
 
 <details>
-<summary>Webapck	<sup>2:newspaper:</sup></summary>
+<summary>Webapck	<sup>3:newspaper:</sup></summary>
 
 - [Module not found: Error: [CaseSensitivePathsPlugin]](https://github.com/cklwblove/blog/issues/47)  <sup>0 :speech_balloon:</sup>  	 
 - [webpack require.context 示例](https://github.com/cklwblove/blog/issues/43)  <sup>0 :speech_balloon:</sup>  	 
+- [修复 Lazy loading routes Error： Cyclic dependency](https://github.com/cklwblove/blog/issues/39)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
