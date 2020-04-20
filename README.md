@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/16"/>
+    <img src="https://badgen.net/badge/labels/17"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-04-20 05:48:22"/>
+    <img src="https://badgen.net/badge/last-commit/2020-04-20 05:49:25"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -23,7 +23,7 @@
 
 #### [svn: “Server SSL certificate verification failed: issuer is not trusted”](https://github.com/cklwblove/blog/issues/58) <sup>0 :speech_balloon:</sup> 	 2020-04-20 05:47:44
 
-:label: : 
+:label: : [SVN](https://github.com/cklwblove/blog/labels/SVN)
 
 ```
 svn list [repository URL]
@@ -148,8 +148,9 @@ mounted: function
 </details>
 
 <details>
-<summary>SVN	<sup>0:newspaper:</sup></summary>
+<summary>SVN	<sup>1:newspaper:</sup></summary>
 
+- [svn: “Server SSL certificate verification failed: issuer is not trusted”](https://github.com/cklwblove/blog/issues/58)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
