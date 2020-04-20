@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/19"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-04-20 06:06:55"/>
+    <img src="https://badgen.net/badge/last-commit/2020-04-20 06:10:45"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -115,11 +115,12 @@ mounted: function
 </details>
 
 <details>
-<summary>:art: Vue	<sup>3:newspaper:</sup></summary>
+<summary>:art: Vue	<sup>4:newspaper:</sup></summary>
 
 - [vue 定时器问题](https://github.com/cklwblove/blog/issues/57)  <sup>0 :speech_balloon:</sup>  	 
 - [Error in nextTick: "InvalidCharacterError: Failed to execute 'setAttribute' on 'Element': '`' is not a valid attribute name."](https://github.com/cklwblove/blog/issues/48)  <sup>0 :speech_balloon:</sup>  	 
 - ["NavigationDuplicated" errors(解决多次点击重复路由报错)](https://github.com/cklwblove/blog/issues/44)  <sup>0 :speech_balloon:</sup>  	 
+- [vue项目刷新当前页面](https://github.com/cklwblove/blog/issues/34)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
