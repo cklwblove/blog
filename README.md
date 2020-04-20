@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/12"/>
+    <img src="https://badgen.net/badge/labels/14"/>
     <img src="https://badgen.net/github/issues/cklwblove/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-04-19 12:19:27"/>
+    <img src="https://badgen.net/badge/last-commit/2020-04-20 04:49:13"/>
     <img src="https://badgen.net/github/forks/cklwblove/ghiblog"/>
     <img src="https://badgen.net/github/stars/cklwblove/ghiblog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/ghiblog"/>
@@ -26,7 +26,7 @@ is
 
 #### [vue 定时器问题](https://github.com/cklwblove/blog/issues/57) <sup>0 :speech_balloon:</sup> 	 2020-04-19 11:29:34
 
-:label: : 
+:label: : [🚀Vue](https://github.com/cklwblove/ghiblog/labels/%F0%9F%9A%80Vue)
 
 你通常不会用到这些，但是当你需要在一个组件实例上手动侦听事件时，它们是派得上用场的。它们也可以用于代码组织工具。例如，你可能经常看到这种集成一个第三方库的模式：
 
@@ -42,7 +42,7 @@ mounted: function
 
 #### [微信图片带有logo的二维码，有些机型长按不能识别](https://github.com/cklwblove/blog/issues/56) <sup>0 :speech_balloon:</sup> 	 2020-03-25 09:46:48
 
-:label: : 
+:label: : [🔥前端](https://github.com/cklwblove/ghiblog/labels/%F0%9F%94%A5%E5%89%8D%E7%AB%AF)
 
 
 微信图片带有logo的二维码，有些机型长按不能识别？
@@ -190,6 +190,22 @@ mounted: function
 <summary>开源	<sup>1:newspaper:</sup></summary>
 
 - [使用<a>标签时，你可能会忽略的一个安全问题](https://github.com/cklwblove/blog/issues/3)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>🔥前端	<sup>1:newspaper:</sup></summary>
+
+- [微信图片带有logo的二维码，有些机型长按不能识别](https://github.com/cklwblove/blog/issues/56)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>🚀Vue	<sup>1:newspaper:</sup></summary>
+
+- [vue 定时器问题](https://github.com/cklwblove/blog/issues/57)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
