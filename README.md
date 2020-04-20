@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/18"/>
+    <img src="https://badgen.net/badge/labels/19"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-04-20 06:04:11"/>
+    <img src="https://badgen.net/badge/last-commit/2020-04-20 06:05:47"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -115,10 +115,11 @@ mounted: function
 </details>
 
 <details>
-<summary>:art: Vue	<sup>2:newspaper:</sup></summary>
+<summary>:art: Vue	<sup>3:newspaper:</sup></summary>
 
 - [vue 定时器问题](https://github.com/cklwblove/blog/issues/57)  <sup>0 :speech_balloon:</sup>  	 
 - [Error in nextTick: "InvalidCharacterError: Failed to execute 'setAttribute' on 'Element': '`' is not a valid attribute name."](https://github.com/cklwblove/blog/issues/48)  <sup>0 :speech_balloon:</sup>  	 
+- ["NavigationDuplicated" errors(解决多次点击重复路由报错)](https://github.com/cklwblove/blog/issues/44)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -144,16 +145,18 @@ mounted: function
 </details>
 
 <details>
-<summary>Nginx	<sup>0:newspaper:</sup></summary>
+<summary>Nginx	<sup>1:newspaper:</sup></summary>
 
+- [Nginx 相关命令](https://github.com/cklwblove/blog/issues/41)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
 
 <details>
-<summary>Nodejs	<sup>1:newspaper:</sup></summary>
+<summary>Nodejs	<sup>2:newspaper:</sup></summary>
 
 - [linux中使用npm全局安装的命令无法运行](https://github.com/cklwblove/blog/issues/49)  <sup>0 :speech_balloon:</sup>  	 
+- [Module not found: Error: [CaseSensitivePathsPlugin]](https://github.com/cklwblove/blog/issues/47)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -162,6 +165,15 @@ mounted: function
 <summary>SVN	<sup>1:newspaper:</sup></summary>
 
 - [svn: “Server SSL certificate verification failed: issuer is not trusted”](https://github.com/cklwblove/blog/issues/58)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>Webapck	<sup>2:newspaper:</sup></summary>
+
+- [Module not found: Error: [CaseSensitivePathsPlugin]](https://github.com/cklwblove/blog/issues/47)  <sup>0 :speech_balloon:</sup>  	 
+- [webpack require.context 示例](https://github.com/cklwblove/blog/issues/43)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
