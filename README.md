@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/16"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-04-20 05:34:43"/>
+    <img src="https://badgen.net/badge/last-commit/2020-04-20 05:48:22"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -20,6 +20,23 @@
 ## 置顶 :thumbsup: 
 - [微信浏览器H5页面软键盘关闭导致页面空缺的问题](https://github.com/cklwblove/blog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [svn: “Server SSL certificate verification failed: issuer is not trusted”](https://github.com/cklwblove/blog/issues/58) <sup>0 :speech_balloon:</sup> 	 2020-04-20 05:47:44
+
+:label: : 
+
+```
+svn list [repository URL]
+```
+
+```
+svn list https://plugins.svn.wordpress.org/no-self-ping
+Error validating server certificate for 'https://
+
+[更多>>>](https://github.com/cklwblove/blog/issues/58)
+
+---
+
 
 #### [vue 定时器问题](https://github.com/cklwblove/blog/issues/57) <sup>0 :speech_balloon:</sup> 	 2020-04-19 11:29:34
 
@@ -80,21 +97,6 @@ mounted: function
 ---
 
 
-#### [H5页面监听Android物理返回键](https://github.com/cklwblove/blog/issues/53) <sup>0 :speech_balloon:</sup> 	 2020-03-06 06:12:17
-
-:label: : [:fire: 前端](https://github.com/cklwblove/blog/labels/%3Afire%3A%20%E5%89%8D%E7%AB%AF)
-
-> Android物理返回键的点击事件，一般webview的默认行为是 window.history.go(-1) ，但是在实际需求场景下，简单的页面回退并不能满足需求，所以需要H5页面监听Android物理返回键从而自定义处理方法。
-
-```
-(function (pkg) {
-    v
-
-[更多>>>](https://github.com/cklwblove/blog/issues/53)
-
----
-
-
 ## 分类  :card_file_box:
 
 <details open="open">
@@ -140,6 +142,13 @@ mounted: function
 
 <details>
 <summary>Nginx	<sup>0:newspaper:</sup></summary>
+
+
+
+</details>
+
+<details>
+<summary>SVN	<sup>0:newspaper:</sup></summary>
 
 
 
