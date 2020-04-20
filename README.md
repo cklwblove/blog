@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/17"/>
+    <img src="https://badgen.net/badge/labels/18"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-04-20 06:01:37"/>
+    <img src="https://badgen.net/badge/last-commit/2020-04-20 06:03:07"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -123,11 +123,12 @@ mounted: function
 </details>
 
 <details>
-<summary>:fire: 前端	<sup>4:newspaper:</sup></summary>
+<summary>:fire: 前端	<sup>5:newspaper:</sup></summary>
 
 - [微信图片带有logo的二维码，有些机型长按不能识别](https://github.com/cklwblove/blog/issues/56)  <sup>0 :speech_balloon:</sup>  	 
 - [ElementUI如何展开指定Tree树节点](https://github.com/cklwblove/blog/issues/55)  <sup>0 :speech_balloon:</sup>  	 
 - [H5页面监听Android物理返回键](https://github.com/cklwblove/blog/issues/53)  <sup>0 :speech_balloon:</sup>  	 
+- [检测 <video>是否开始播放（加载到资源有了画面）的方法](https://github.com/cklwblove/blog/issues/51)  <sup>0 :speech_balloon:</sup>  	 
 - [打包构建后，js文件移除 'use strict'](https://github.com/cklwblove/blog/issues/50)  <sup>0 :speech_balloon:</sup>  	 
 
 
@@ -143,6 +144,13 @@ mounted: function
 
 <details>
 <summary>Nginx	<sup>0:newspaper:</sup></summary>
+
+
+
+</details>
+
+<details>
+<summary>Nodejs	<sup>0:newspaper:</sup></summary>
 
 
 
