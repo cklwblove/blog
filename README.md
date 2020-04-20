@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/14"/>
+    <img src="https://badgen.net/badge/labels/16"/>
     <img src="https://badgen.net/github/issues/cklwblove/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-04-20 04:49:56"/>
+    <img src="https://badgen.net/badge/last-commit/2020-04-20 04:52:49"/>
     <img src="https://badgen.net/github/forks/cklwblove/ghiblog"/>
     <img src="https://badgen.net/github/stars/cklwblove/ghiblog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/ghiblog"/>
@@ -124,6 +124,13 @@ mounted: function
 </details>
 
 <details>
+<summary>Nginx	<sup>0:newspaper:</sup></summary>
+
+
+
+</details>
+
+<details>
 <summary>bug	<sup>0:newspaper:</sup></summary>
 
 
@@ -190,6 +197,13 @@ mounted: function
 <summary>开源	<sup>1:newspaper:</sup></summary>
 
 - [使用<a>标签时，你可能会忽略的一个安全问题](https://github.com/cklwblove/blog/issues/3)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>浏览器	<sup>0:newspaper:</sup></summary>
+
 
 
 </details>
