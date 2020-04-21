@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/19"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-04-21 02:46:06"/>
+    <img src="https://badgen.net/badge/last-commit/2020-04-21 02:47:01"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -157,9 +157,10 @@ mounted: function
 </details>
 
 <details>
-<summary>Nginx	<sup>1:newspaper:</sup></summary>
+<summary>Nginx	<sup>2:newspaper:</sup></summary>
 
 - [Nginx 相关命令](https://github.com/cklwblove/blog/issues/41)  <sup>0 :speech_balloon:</sup>  	 
+- [Nginx的 gzip设置](https://github.com/cklwblove/blog/issues/21)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
