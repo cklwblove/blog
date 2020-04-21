@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/19"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-04-21 02:45:10"/>
+    <img src="https://badgen.net/badge/last-commit/2020-04-21 02:46:06"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -126,7 +126,7 @@ mounted: function
 </details>
 
 <details>
-<summary>:fire: 前端	<sup>11:newspaper:</sup></summary>
+<summary>:fire: 前端	<sup>16:newspaper:</sup></summary>
 
 - [微信图片带有logo的二维码，有些机型长按不能识别](https://github.com/cklwblove/blog/issues/56)  <sup>0 :speech_balloon:</sup>  	 
 - [ElementUI如何展开指定Tree树节点](https://github.com/cklwblove/blog/issues/55)  <sup>0 :speech_balloon:</sup>  	 
@@ -139,6 +139,11 @@ mounted: function
 - [Safari & iOS - window.performance.timing.navigationStart issue](https://github.com/cklwblove/blog/issues/36)  <sup>0 :speech_balloon:</sup>  	 
 - [vconsole 问题](https://github.com/cklwblove/blog/issues/35)  <sup>0 :speech_balloon:</sup>  	 
 - [IOS 拍摄照片旋转问题修复](https://github.com/cklwblove/blog/issues/33)  <sup>0 :speech_balloon:</sup>  	 
+- [安卓机上输入法会盖住输入框问题](https://github.com/cklwblove/blog/issues/32)  <sup>0 :speech_balloon:</sup>  	 
+- [iPhone Safari 下 input disabled 颜色](https://github.com/cklwblove/blog/issues/31)  <sup>0 :speech_balloon:</sup>  	 
+- [URL unicode #号转成 %23 路由解析问题（部分安卓机型）](https://github.com/cklwblove/blog/issues/30)  <sup>0 :speech_balloon:</sup>  	 
+- [在浏览器端对图片进行压缩 & 上传](https://github.com/cklwblove/blog/issues/29)  <sup>0 :speech_balloon:</sup>  	 
+- [H5唤起APP指南](https://github.com/cklwblove/blog/issues/26)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
