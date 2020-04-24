@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-04-24 07:42:44"/>
+    <img src="https://badgen.net/badge/last-commit/2020-04-24 07:44:16"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
