@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-04-21 08:24:51"/>
+    <img src="https://badgen.net/badge/last-commit/2020-04-24 07:42:44"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -20,6 +20,24 @@
 ## 置顶 :thumbsup: 
 - [微信浏览器H5页面软键盘关闭导致页面空缺的问题](https://github.com/cklwblove/blog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [vue mixins](https://github.com/cklwblove/blog/issues/59) <sup>0 :speech_balloon:</sup> 	 2020-04-24 07:42:09
+
+:label: : 
+
+两种方法：
+
+```
+// mixins/title.ts
+import { Vue, Component } from 'vue-property-decorator'
+
+@Component
+export default class titleMixin extends Vue {
+
+[更多>>>](https://github.com/cklwblove/blog/issues/59)
+
+---
+
 
 #### [svn: “Server SSL certificate verification failed: issuer is not trusted”](https://github.com/cklwblove/blog/issues/58) <sup>0 :speech_balloon:</sup> 	 2020-04-20 05:47:44
 
@@ -81,18 +99,6 @@ mounted: function
         :data="ca
 
 [更多>>>](https://github.com/cklwblove/blog/issues/55)
-
----
-
-
-#### [net::ERR_INCOMPLETE_CHUNKED_ENCODING 200](https://github.com/cklwblove/blog/issues/54) <sup>0 :speech_balloon:</sup> 	 2020-03-23 04:53:07
-
-:label: : [浏览器](https://github.com/cklwblove/blog/labels/%E6%B5%8F%E8%A7%88%E5%99%A8)
-
-前端是vue写的,F12查看具体表现为发送了个 option后，不继续发post了,表面上表现是跨域问题，然后控制台报net::ERR_INCOMPLETE_CHUNKED_ENCODING,
-网上搜索了一下有磁盘满了、chrome的自身问题、tomcat版本和配置的问题,json返回的文本太大，
-
-[更多>>>](https://github.com/cklwblove/blog/issues/54)
 
 ---
 
