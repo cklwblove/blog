@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-04-24 07:44:16"/>
+    <img src="https://badgen.net/badge/last-commit/2020-04-28 12:01:03"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -20,6 +20,19 @@
 ## 置顶 :thumbsup: 
 - [微信浏览器H5页面软键盘关闭导致页面空缺的问题](https://github.com/cklwblove/blog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Gradient has outdated direction syntax. New syntax is like `closest-side at 0 0` instead of `0 0, closest-side`](https://github.com/cklwblove/blog/issues/60) <sup>0 :speech_balloon:</sup> 	 2020-04-28 12:00:23
+
+:label: : [:fire: 前端](https://github.com/cklwblove/blog/labels/%3Afire%3A%20%E5%89%8D%E7%AB%AF)
+
+*Gradient has outdated direction syntax. New syntax is like `closest-side at 0 0` instead of `0 0, closest-side`*
+
+解决方案 ： background-image: radial-g
+
+[更多>>>](https://github.com/cklwblove/blog/issues/60)
+
+---
+
 
 #### [vue mixins](https://github.com/cklwblove/blog/issues/59) <sup>0 :speech_balloon:</sup> 	 2020-04-24 07:42:09
 
@@ -86,23 +99,6 @@ mounted: function
 ---
 
 
-#### [ElementUI如何展开指定Tree树节点](https://github.com/cklwblove/blog/issues/55) <sup>0 :speech_balloon:</sup> 	 2020-03-24 07:48:27
-
-:label: : [:fire: 前端](https://github.com/cklwblove/blog/labels/%3Afire%3A%20%E5%89%8D%E7%AB%AF)
-
-```
-<el-tree
-        ref="tree"
-        show-checkbox
-        :check-on-click-node="true"
-        :expand-on-click-node="true"
-        :data="ca
-
-[更多>>>](https://github.com/cklwblove/blog/issues/55)
-
----
-
-
 ## 分类  :card_file_box:
 
 <details open="open">
@@ -132,8 +128,9 @@ mounted: function
 </details>
 
 <details>
-<summary>:fire: 前端	<sup>16:newspaper:</sup></summary>
+<summary>:fire: 前端	<sup>17:newspaper:</sup></summary>
 
+- [Gradient has outdated direction syntax. New syntax is like `closest-side at 0 0` instead of `0 0, closest-side`](https://github.com/cklwblove/blog/issues/60)  <sup>0 :speech_balloon:</sup>  	 
 - [微信图片带有logo的二维码，有些机型长按不能识别](https://github.com/cklwblove/blog/issues/56)  <sup>0 :speech_balloon:</sup>  	 
 - [ElementUI如何展开指定Tree树节点](https://github.com/cklwblove/blog/issues/55)  <sup>0 :speech_balloon:</sup>  	 
 - [H5页面监听Android物理返回键](https://github.com/cklwblove/blog/issues/53)  <sup>0 :speech_balloon:</sup>  	 
