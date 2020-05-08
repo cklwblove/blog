@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-05-08 03:04:15"/>
+    <img src="https://badgen.net/badge/last-commit/2020-05-08 03:22:31"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -20,6 +20,23 @@
 ## 置顶 :thumbsup: 
 - [微信浏览器H5页面软键盘关闭导致页面空缺的问题](https://github.com/cklwblove/blog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [移动端混合式开发时，html强缓存的问题](https://github.com/cklwblove/blog/issues/61) <sup>0 :speech_balloon:</sup> 	 2020-05-08 03:21:53
+
+:label: : 
+
+## 问题背景
+在做移动端混合式开发的时候，遇到了 html 文件被强缓存的问题，导致请求的相关静态资源文件，如 js文件，服务器替换之后，都不起作用。重启 app 或者 杀掉 app 的运行进程，都不好使。
+
+## 解决方案
+可以在 html 文件头部添加一段这样的代码解决
+```
+<
+
+[更多>>>](https://github.com/cklwblove/blog/issues/61)
+
+---
+
 
 #### [Gradient has outdated direction syntax. New syntax is like `closest-side at 0 0` instead of `0 0, closest-side`](https://github.com/cklwblove/blog/issues/60) <sup>0 :speech_balloon:</sup> 	 2020-04-28 12:00:23
 
@@ -81,20 +98,6 @@ Error validating server certificate for 'https://
 mounted: function 
 
 [更多>>>](https://github.com/cklwblove/blog/issues/57)
-
----
-
-
-#### [微信图片带有logo的二维码，有些机型长按不能识别](https://github.com/cklwblove/blog/issues/56) <sup>0 :speech_balloon:</sup> 	 2020-03-25 09:46:48
-
-:label: : [:fire: 前端](https://github.com/cklwblove/blog/labels/%3Afire%3A%20%E5%89%8D%E7%AB%AF)
-
-
-微信图片带有logo的二维码，有些机型长按不能识别？
-
-**解决方案：logo去掉**
-
-[更多>>>](https://github.com/cklwblove/blog/issues/56)
 
 ---
 
