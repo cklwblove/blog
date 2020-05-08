@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-04-28 12:01:03"/>
+    <img src="https://badgen.net/badge/last-commit/2020-05-08 03:04:15"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -36,7 +36,7 @@
 
 #### [vue mixins](https://github.com/cklwblove/blog/issues/59) <sup>0 :speech_balloon:</sup> 	 2020-04-24 07:42:09
 
-:label: : 
+:label: : [:art: Vue](https://github.com/cklwblove/blog/labels/%3Aart%3A%20Vue)
 
 两种方法：
 
@@ -117,8 +117,9 @@ mounted: function
 </details>
 
 <details>
-<summary>:art: Vue	<sup>4:newspaper:</sup></summary>
+<summary>:art: Vue	<sup>5:newspaper:</sup></summary>
 
+- [vue mixins](https://github.com/cklwblove/blog/issues/59)  <sup>0 :speech_balloon:</sup>  	 
 - [vue 定时器问题](https://github.com/cklwblove/blog/issues/57)  <sup>0 :speech_balloon:</sup>  	 
 - [Error in nextTick: "InvalidCharacterError: Failed to execute 'setAttribute' on 'Element': '`' is not a valid attribute name."](https://github.com/cklwblove/blog/issues/48)  <sup>0 :speech_balloon:</sup>  	 
 - ["NavigationDuplicated" errors(解决多次点击重复路由报错)](https://github.com/cklwblove/blog/issues/44)  <sup>0 :speech_balloon:</sup>  	 
