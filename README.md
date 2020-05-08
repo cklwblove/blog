@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-05-08 03:22:31"/>
+    <img src="https://badgen.net/badge/last-commit/2020-05-08 03:24:23"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -26,12 +26,12 @@
 :label: : 
 
 ## 问题背景
-在做移动端混合式开发的时候，遇到了 html 文件被强缓存的问题，导致请求的相关静态资源文件，如 js文件，服务器替换之后，都不起作用。重启 app 或者 杀掉 app 的运行进程，都不好使。
+在做移动端混合式开发的时候，遇到了 html 文件被强缓存的问题，导致请求的相关静态资源文件，如 js 文件，服务器替换之后，都不起作用。重启 App 或者 杀掉 App 的运行进程，都不好使。
 
 ## 解决方案
 可以在 html 文件头部添加一段这样的代码解决
 ```
-<
+
 
 [更多>>>](https://github.com/cklwblove/blog/issues/61)
 
