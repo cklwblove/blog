@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-05-12 03:01:30"/>
+    <img src="https://badgen.net/badge/last-commit/2020-06-05 04:08:09"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -20,6 +20,28 @@
 ## 置顶 :thumbsup: 
 - [微信浏览器H5页面软键盘关闭导致页面空缺的问题](https://github.com/cklwblove/blog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [GitHub Error - “ssh: connect to host github.com port 22: Operation timed out fatal: Could not read from remote repository.”](https://github.com/cklwblove/blog/issues/62) <sup>0 :speech_balloon:</sup> 	 2020-06-05 04:07:30
+
+:label: : 
+
+edit ~/.ssh/config
+
+```
+Host github.com
+  Hostname ssh.github.com
+  Port 443
+```
+
+或者
+
+```
+git remote add origin-https https://github.com/al
+
+[更多>>>](https://github.com/cklwblove/blog/issues/62)
+
+---
+
 
 #### [移动端混合式开发时，html强缓存的问题](https://github.com/cklwblove/blog/issues/61) <sup>0 :speech_balloon:</sup> 	 2020-05-08 03:21:53
 
@@ -82,22 +104,6 @@ svn list https://plugins.svn.wordpress.org/no-self-ping
 Error validating server certificate for 'https://
 
 [更多>>>](https://github.com/cklwblove/blog/issues/58)
-
----
-
-
-#### [vue 定时器问题](https://github.com/cklwblove/blog/issues/57) <sup>0 :speech_balloon:</sup> 	 2020-04-19 11:29:34
-
-:label: : [:art: Vue](https://github.com/cklwblove/blog/labels/%3Aart%3A%20Vue)
-
-你通常不会用到这些，但是当你需要在一个组件实例上手动侦听事件时，它们是派得上用场的。它们也可以用于代码组织工具。例如，你可能经常看到这种集成一个第三方库的模式：
-
-```
-// 一次性将这个日期选择器附加到一个输入框上
-// 它会被挂载到 DOM 上。
-mounted: function 
-
-[更多>>>](https://github.com/cklwblove/blog/issues/57)
 
 ---
 
