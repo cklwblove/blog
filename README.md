@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-06-05 04:08:09"/>
+    <img src="https://badgen.net/badge/last-commit/2020-07-03 15:44:12"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -20,6 +20,18 @@
 ## 置顶 :thumbsup: 
 - [微信浏览器H5页面软键盘关闭导致页面空缺的问题](https://github.com/cklwblove/blog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Error: Cannot find module '@babel/compat-data/corejs3-shipped-proposals'](https://github.com/cklwblove/blog/issues/63) <sup>0 :speech_balloon:</sup> 	 2020-07-03 15:43:30
+
+:label: : 
+
+`npm update --depth 5 @babel/preset-env`
+`npm update --depth 5 @babel/compat-data `
+
+[更多>>>](https://github.com/cklwblove/blog/issues/63)
+
+---
+
 
 #### [GitHub Error - “ssh: connect to host github.com port 22: Operation timed out fatal: Could not read from remote repository.”](https://github.com/cklwblove/blog/issues/62) <sup>0 :speech_balloon:</sup> 	 2020-06-05 04:07:30
 
@@ -87,23 +99,6 @@ import { Vue, Component } from 'vue-property-decorator'
 export default class titleMixin extends Vue {
 
 [更多>>>](https://github.com/cklwblove/blog/issues/59)
-
----
-
-
-#### [svn: “Server SSL certificate verification failed: issuer is not trusted”](https://github.com/cklwblove/blog/issues/58) <sup>0 :speech_balloon:</sup> 	 2020-04-20 05:47:44
-
-:label: : [SVN](https://github.com/cklwblove/blog/labels/SVN)
-
-```
-svn list [repository URL]
-```
-
-```
-svn list https://plugins.svn.wordpress.org/no-self-ping
-Error validating server certificate for 'https://
-
-[更多>>>](https://github.com/cklwblove/blog/issues/58)
 
 ---
 
