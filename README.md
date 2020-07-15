@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-07-03 15:44:12"/>
+    <img src="https://badgen.net/badge/last-commit/2020-07-15 13:47:52"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -20,6 +20,25 @@
 ## 置顶 :thumbsup: 
 - [微信浏览器H5页面软键盘关闭导致页面空缺的问题](https://github.com/cklwblove/blog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [修复 HMR(热更新)失效](https://github.com/cklwblove/blog/issues/64) <sup>0 :speech_balloon:</sup> 	 2020-07-15 13:47:15
+
+:label: : 
+
+```js
+module.exports = {
+  chainWebpack: config => {
+    // 修复HMR
+    config.resolve.symlinks(true);
+  }
+};
+```
+
+
+[更多>>>](https://github.com/cklwblove/blog/issues/64)
+
+---
+
 
 #### [Error: Cannot find module '@babel/compat-data/corejs3-shipped-proposals'](https://github.com/cklwblove/blog/issues/63) <sup>0 :speech_balloon:</sup> 	 2020-07-03 15:43:30
 
@@ -81,24 +100,6 @@ git remote add origin-https https://github.com/al
 解决方案 ： background-image: radial-g
 
 [更多>>>](https://github.com/cklwblove/blog/issues/60)
-
----
-
-
-#### [vue mixins](https://github.com/cklwblove/blog/issues/59) <sup>0 :speech_balloon:</sup> 	 2020-04-24 07:42:09
-
-:label: : [:art: Vue](https://github.com/cklwblove/blog/labels/%3Aart%3A%20Vue)
-
-两种方法：
-
-```
-// mixins/title.ts
-import { Vue, Component } from 'vue-property-decorator'
-
-@Component
-export default class titleMixin extends Vue {
-
-[更多>>>](https://github.com/cklwblove/blog/issues/59)
 
 ---
 
