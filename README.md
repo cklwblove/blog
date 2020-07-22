@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-07-15 13:47:52"/>
+    <img src="https://badgen.net/badge/last-commit/2020-07-22 15:05:12"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -20,6 +20,20 @@
 ## 置顶 :thumbsup: 
 - [微信浏览器H5页面软键盘关闭导致页面空缺的问题](https://github.com/cklwblove/blog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [前端要处理防止多次点击实现方案](https://github.com/cklwblove/blog/issues/65) <sup>0 :speech_balloon:</sup> 	 2020-07-22 15:04:30
+
+:label: : 
+
+个人博客, 请**不要**提issue, 谢谢!
+====================
+This repository is for personal blogging, please **DO NOT** submit issue, thanks!
+
+
+[更多>>>](https://github.com/cklwblove/blog/issues/65)
+
+---
+
 
 #### [修复 HMR(热更新)失效](https://github.com/cklwblove/blog/issues/64) <sup>0 :speech_balloon:</sup> 	 2020-07-15 13:47:15
 
@@ -87,19 +101,6 @@ git remote add origin-https https://github.com/al
 
 
 [更多>>>](https://github.com/cklwblove/blog/issues/61)
-
----
-
-
-#### [Gradient has outdated direction syntax. New syntax is like `closest-side at 0 0` instead of `0 0, closest-side`](https://github.com/cklwblove/blog/issues/60) <sup>0 :speech_balloon:</sup> 	 2020-04-28 12:00:23
-
-:label: : [:fire: 前端](https://github.com/cklwblove/blog/labels/%3Afire%3A%20%E5%89%8D%E7%AB%AF)
-
-*Gradient has outdated direction syntax. New syntax is like `closest-side at 0 0` instead of `0 0, closest-side`*
-
-解决方案 ： background-image: radial-g
-
-[更多>>>](https://github.com/cklwblove/blog/issues/60)
 
 ---
 
