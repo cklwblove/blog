@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-07-22 15:05:12"/>
+    <img src="https://badgen.net/badge/last-commit/2020-07-28 09:50:23"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -20,6 +20,17 @@
 ## 置顶 :thumbsup: 
 - [微信浏览器H5页面软键盘关闭导致页面空缺的问题](https://github.com/cklwblove/blog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Safari 浏览器播放音频视频流异常处理](https://github.com/cklwblove/blog/issues/66) <sup>0 :speech_balloon:</sup> 	 2020-07-28 09:49:43
+
+:label: : 
+
+使用普通文件流的方式播放音频视频文件在Google Chrome和安卓中都可以正常播放, 在Safari 浏览器和IOS中播放会不正常, 具体表现为只能播放部分音频视频,播放一定时长就后就会停掉. 这是因为Safari 浏览器播放音频视频是边下边播放, 当已下载的内容快播放完的时候,会继续下载新的内
+
+[更多>>>](https://github.com/cklwblove/blog/issues/66)
+
+---
+
 
 #### [前端要处理防止多次点击实现方案](https://github.com/cklwblove/blog/issues/65) <sup>0 :speech_balloon:</sup> 	 2020-07-22 15:04:30
 
@@ -84,23 +95,6 @@ Host github.com
 git remote add origin-https https://github.com/al
 
 [更多>>>](https://github.com/cklwblove/blog/issues/62)
-
----
-
-
-#### [移动端混合式开发时，html强缓存的问题](https://github.com/cklwblove/blog/issues/61) <sup>0 :speech_balloon:</sup> 	 2020-05-08 03:21:53
-
-:label: : [:fire: 前端](https://github.com/cklwblove/blog/labels/%3Afire%3A%20%E5%89%8D%E7%AB%AF)
-
-## 问题背景
-在做移动端混合式开发的时候，遇到了 html 文件被强缓存的问题，导致请求的相关静态资源文件，如 js 文件，服务器替换之后，都不起作用。重启 App 或者 杀掉 App 的运行进程，都不好使。
-
-## 解决方案
-可以在 html 文件头部添加一段这样的代码解决
-```
-
-
-[更多>>>](https://github.com/cklwblove/blog/issues/61)
 
 ---
 
