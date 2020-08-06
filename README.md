@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-07-28 09:50:23"/>
+    <img src="https://badgen.net/badge/last-commit/2020-08-06 10:06:58"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -20,6 +20,20 @@
 ## 置顶 :thumbsup: 
 - [微信浏览器H5页面软键盘关闭导致页面空缺的问题](https://github.com/cklwblove/blog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [解决因为手机设置字体大小导致h5页面在webview中变形的BUG](https://github.com/cklwblove/blog/issues/67) <sup>0 :speech_balloon:</sup> 	 2020-08-06 10:06:16
+
+:label: : 
+
+解决因为手机设置字体大小导致 h5 页面在 webview 中变形的 BUG
+首先，我们做了一个 H5 页面，在各种手机浏览器中打开都没问题。我们采用了 rem 单位进行布局，通过 JS 来动态计算网页的视窗宽度，动态设置 html 的 font-size，一切都比较完美。
+
+这时候，你自信满
+
+[更多>>>](https://github.com/cklwblove/blog/issues/67)
+
+---
+
 
 #### [Safari 浏览器播放音频视频流异常处理](https://github.com/cklwblove/blog/issues/66) <sup>0 :speech_balloon:</sup> 	 2020-07-28 09:49:43
 
@@ -73,28 +87,6 @@ module.exports = {
 `npm update --depth 5 @babel/compat-data `
 
 [更多>>>](https://github.com/cklwblove/blog/issues/63)
-
----
-
-
-#### [GitHub Error - “ssh: connect to host github.com port 22: Operation timed out fatal: Could not read from remote repository.”](https://github.com/cklwblove/blog/issues/62) <sup>0 :speech_balloon:</sup> 	 2020-06-05 04:07:30
-
-:label: : 
-
-edit ~/.ssh/config
-
-```
-Host github.com
-  Hostname ssh.github.com
-  Port 443
-```
-
-或者
-
-```
-git remote add origin-https https://github.com/al
-
-[更多>>>](https://github.com/cklwblove/blog/issues/62)
 
 ---
 
