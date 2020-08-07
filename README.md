@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-08-07 02:08:44"/>
+    <img src="https://badgen.net/badge/last-commit/2020-08-07 02:11:18"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -66,9 +66,7 @@
 
 :label: : 
 
-个人博客, 请**不要**提issue, 谢谢!
-====================
-This repository is for personal blogging, please **DO NOT** submit issue, thanks!
+
 
 
 [更多>>>](https://github.com/cklwblove/blog/issues/65)
