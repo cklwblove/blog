@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-08-06 10:06:58"/>
+    <img src="https://badgen.net/badge/last-commit/2020-08-07 02:08:44"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -20,6 +20,22 @@
 ## 置顶 :thumbsup: 
 - [微信浏览器H5页面软键盘关闭导致页面空缺的问题](https://github.com/cklwblove/blog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [关于vue-router中点击浏览器前进后退地址栏路由变了但是页面没跳转](https://github.com/cklwblove/blog/issues/68) <sup>0 :speech_balloon:</sup> 	 2020-08-07 02:08:03
+
+:label: : 
+
+> 摘自 https://www.cnblogs.com/mmzuo-798/p/10260327.html
+
+正文如下：
+<a name="SiL76"></a>
+### **情景：**
+在进行正常页面跳转操作后（页面A跳转到页面B），点击浏览器的左上角的‘后退’按钮，点击后，可以看到u
+
+[更多>>>](https://github.com/cklwblove/blog/issues/68)
+
+---
+
 
 #### [解决因为手机设置字体大小导致h5页面在webview中变形的BUG](https://github.com/cklwblove/blog/issues/67) <sup>0 :speech_balloon:</sup> 	 2020-08-06 10:06:16
 
@@ -75,18 +91,6 @@ module.exports = {
 
 
 [更多>>>](https://github.com/cklwblove/blog/issues/64)
-
----
-
-
-#### [Error: Cannot find module '@babel/compat-data/corejs3-shipped-proposals'](https://github.com/cklwblove/blog/issues/63) <sup>0 :speech_balloon:</sup> 	 2020-07-03 15:43:30
-
-:label: : 
-
-`npm update --depth 5 @babel/preset-env`
-`npm update --depth 5 @babel/compat-data `
-
-[更多>>>](https://github.com/cklwblove/blog/issues/63)
 
 ---
 
