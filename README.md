@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-09-03 01:59:41"/>
+    <img src="https://badgen.net/badge/last-commit/2020-09-03 02:01:00"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -20,6 +20,26 @@
 ## 置顶 :thumbsup: 
 - [微信浏览器H5页面软键盘关闭导致页面空缺的问题](https://github.com/cklwblove/blog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [optioanl chaining 可选链](https://github.com/cklwblove/blog/issues/71) <sup>0 :speech_balloon:</sup> 	 2020-09-03 02:00:23
+
+:label: : 
+
+安装
+```
+yarn add @babel/plugin-proposal-optional-chaining --dev
+```
+使用
+```
+{
+  "plugins": ["@babel/plugin-proposal-optional-chaining"]
+}
+```
+
+[更多>>>](https://github.com/cklwblove/blog/issues/71)
+
+---
+
 
 #### [window.postMessage() 父子之间的窗口通信](https://github.com/cklwblove/blog/issues/69) <sup>0 :speech_balloon:</sup> 	 2020-08-24 02:46:44
 
@@ -80,18 +100,6 @@
 使用普通文件流的方式播放音频视频文件在Google Chrome和安卓中都可以正常播放, 在Safari 浏览器和IOS中播放会不正常, 具体表现为只能播放部分音频视频,播放一定时长就后就会停掉. 这是因为Safari 浏览器播放音频视频是边下边播放, 当已下载的内容快播放完的时候,会继续下载新的内
 
 [更多>>>](https://github.com/cklwblove/blog/issues/66)
-
----
-
-
-#### [前端要处理防止多次点击实现方案](https://github.com/cklwblove/blog/issues/65) <sup>0 :speech_balloon:</sup> 	 2020-07-22 15:04:30
-
-:label: : 
-
-
-
-
-[更多>>>](https://github.com/cklwblove/blog/issues/65)
 
 ---
 
