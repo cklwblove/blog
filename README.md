@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-10-16 01:47:44"/>
+    <img src="https://badgen.net/badge/last-commit/2020-12-01 06:58:42"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -20,6 +20,30 @@
 ## 置顶 :thumbsup: 
 - [微信浏览器H5页面软键盘关闭导致页面空缺的问题](https://github.com/cklwblove/blog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [img 标签插入图片返回403，浏览器可以直接打开](https://github.com/cklwblove/blog/issues/73) <sup>0 :speech_balloon:</sup> 	 2020-12-01 06:57:58
+
+:label: : [:fire: 前端](https://github.com/cklwblove/blog/labels/%3Afire%3A%20%E5%89%8D%E7%AB%AF)
+
+> 在本地页面里用img标签访问页面图片返回403 forbidden，如https://images2015.cnblogs.com/blog/138012/201610/138012-20161022224150045-30962603.png。
+而浏览器可以直接打开。好像是他们的服务器做了处
+
+[更多>>>](https://github.com/cklwblove/blog/issues/73)
+
+---
+
+
+#### [Webpack打包UMD的export问题](https://github.com/cklwblove/blog/issues/72) <sup>0 :speech_balloon:</sup> 	 2020-10-30 10:56:41
+
+:label: : 
+
+https://twindy.org/webpackda-bao-umdde-exportwen-ti/
+
+
+[更多>>>](https://github.com/cklwblove/blog/issues/72)
+
+---
+
 
 #### [optioanl chaining 可选链](https://github.com/cklwblove/blog/issues/71) <sup>0 :speech_balloon:</sup> 	 2020-09-03 02:00:23
 
@@ -79,31 +103,6 @@ yarn add @babel/plugin-proposal-optional-chaining --dev
 ---
 
 
-#### [解决因为手机设置字体大小导致h5页面在webview中变形的BUG](https://github.com/cklwblove/blog/issues/67) <sup>0 :speech_balloon:</sup> 	 2020-08-06 10:06:16
-
-:label: : 
-
-解决因为手机设置字体大小导致 h5 页面在 webview 中变形的 BUG
-首先，我们做了一个 H5 页面，在各种手机浏览器中打开都没问题。我们采用了 rem 单位进行布局，通过 JS 来动态计算网页的视窗宽度，动态设置 html 的 font-size，一切都比较完美。
-
-这时候，你自信满
-
-[更多>>>](https://github.com/cklwblove/blog/issues/67)
-
----
-
-
-#### [Safari 浏览器播放音频视频流异常处理](https://github.com/cklwblove/blog/issues/66) <sup>0 :speech_balloon:</sup> 	 2020-07-28 09:49:43
-
-:label: : 
-
-使用普通文件流的方式播放音频视频文件在Google Chrome和安卓中都可以正常播放, 在Safari 浏览器和IOS中播放会不正常, 具体表现为只能播放部分音频视频,播放一定时长就后就会停掉. 这是因为Safari 浏览器播放音频视频是边下边播放, 当已下载的内容快播放完的时候,会继续下载新的内
-
-[更多>>>](https://github.com/cklwblove/blog/issues/66)
-
----
-
-
 ## 分类  :card_file_box:
 
 <details open="open">
@@ -134,8 +133,9 @@ yarn add @babel/plugin-proposal-optional-chaining --dev
 </details>
 
 <details>
-<summary>:fire: 前端	<sup>18:newspaper:</sup></summary>
+<summary>:fire: 前端	<sup>19:newspaper:</sup></summary>
 
+- [img 标签插入图片返回403，浏览器可以直接打开](https://github.com/cklwblove/blog/issues/73)  <sup>0 :speech_balloon:</sup>  	 
 - [移动端混合式开发时，html强缓存的问题](https://github.com/cklwblove/blog/issues/61)  <sup>1 :speech_balloon:</sup>  	 
 - [Gradient has outdated direction syntax. New syntax is like `closest-side at 0 0` instead of `0 0, closest-side`](https://github.com/cklwblove/blog/issues/60)  <sup>0 :speech_balloon:</sup>  	 
 - [微信图片带有logo的二维码，有些机型长按不能识别](https://github.com/cklwblove/blog/issues/56)  <sup>0 :speech_balloon:</sup>  	 
