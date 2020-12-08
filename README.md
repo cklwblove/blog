@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-12-01 06:59:48"/>
+    <img src="https://badgen.net/badge/last-commit/2020-12-08 04:39:17"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -20,6 +20,18 @@
 ## 置顶 :thumbsup: 
 - [微信浏览器H5页面软键盘关闭导致页面空缺的问题](https://github.com/cklwblove/blog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [为所有路由统一添加 query](https://github.com/cklwblove/blog/issues/74) <sup>0 :speech_balloon:</sup> 	 2020-12-08 04:38:35
+
+:label: : [:art: Vue](https://github.com/cklwblove/blog/labels/%3Aart%3A%20Vue)
+
+> 摘自 《深入浅出 Vue.js》17章
+如果路由上的 query 中有一些是从上游链路上传下来的，那么需要在应用的任何路由中携带，但是在所有跳转路由的地方都设置一遍会非常麻烦。例如，在应用中的所有路由上都添加参数：https://berwin.me/a?referer=hao360cn 和 h
+
+[更多>>>](https://github.com/cklwblove/blog/issues/74)
+
+---
+
 
 #### [img 标签插入图片返回403，浏览器可以直接打开](https://github.com/cklwblove/blog/issues/73) <sup>0 :speech_balloon:</sup> 	 2020-12-01 06:57:58
 
@@ -87,22 +99,6 @@ yarn add @babel/plugin-proposal-optional-chaining --dev
 ---
 
 
-#### [关于vue-router中点击浏览器前进后退地址栏路由变了但是页面没跳转](https://github.com/cklwblove/blog/issues/68) <sup>0 :speech_balloon:</sup> 	 2020-08-07 02:08:03
-
-:label: : 
-
-> 摘自 https://www.cnblogs.com/mmzuo-798/p/10260327.html
-
-正文如下：
-<a name="SiL76"></a>
-### **情景：**
-在进行正常页面跳转操作后（页面A跳转到页面B），点击浏览器的左上角的‘后退’按钮，点击后，可以看到u
-
-[更多>>>](https://github.com/cklwblove/blog/issues/68)
-
----
-
-
 ## 分类  :card_file_box:
 
 <details open="open">
@@ -121,8 +117,9 @@ yarn add @babel/plugin-proposal-optional-chaining --dev
 </details>
 
 <details>
-<summary>:art: Vue	<sup>5:newspaper:</sup></summary>
+<summary>:art: Vue	<sup>6:newspaper:</sup></summary>
 
+- [为所有路由统一添加 query](https://github.com/cklwblove/blog/issues/74)  <sup>0 :speech_balloon:</sup>  	 
 - [vue mixins](https://github.com/cklwblove/blog/issues/59)  <sup>0 :speech_balloon:</sup>  	 
 - [vue 定时器问题](https://github.com/cklwblove/blog/issues/57)  <sup>0 :speech_balloon:</sup>  	 
 - [Error in nextTick: "InvalidCharacterError: Failed to execute 'setAttribute' on 'Element': '`' is not a valid attribute name."](https://github.com/cklwblove/blog/issues/48)  <sup>0 :speech_balloon:</sup>  	 
