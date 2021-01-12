@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-12-08 04:39:17"/>
+    <img src="https://badgen.net/badge/last-commit/2021-01-12 02:26:53"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -20,6 +20,26 @@
 ## 置顶 :thumbsup: 
 - [微信浏览器H5页面软键盘关闭导致页面空缺的问题](https://github.com/cklwblove/blog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [axios-服务端返回数据中数字太大导致精度丢失问题解决方案](https://github.com/cklwblove/blog/issues/75) <sup>0 :speech_balloon:</sup> 	 2021-01-12 02:26:14
+
+:label: : 
+
+> 可以使用 [json-bigint[(https://www.npmjs.com/package/json-bigint) 来解决
+
+## 安装
+```
+yarn add json-bigint
+```
+
+## axios 修改配置
+```
+axios.get('...', {
+
+[更多>>>](https://github.com/cklwblove/blog/issues/75)
+
+---
+
 
 #### [为所有路由统一添加 query](https://github.com/cklwblove/blog/issues/74) <sup>0 :speech_balloon:</sup> 	 2020-12-08 04:38:35
 
@@ -73,28 +93,6 @@ yarn add @babel/plugin-proposal-optional-chaining --dev
 ```
 
 [更多>>>](https://github.com/cklwblove/blog/issues/71)
-
----
-
-
-#### [window.postMessage() 父子之间的窗口通信](https://github.com/cklwblove/blog/issues/69) <sup>0 :speech_balloon:</sup> 	 2020-08-24 02:46:44
-
-:label: : 
-
-**两个 html 文件，A.html ,B.html** 
-
-**A通过 iframe 嵌入B**
-
-**接收消息vue都可以在mounted中获取**
-
-```html
-
-// A.html
-<body>
-<button id="button">发送到B</button>
-
-
-[更多>>>](https://github.com/cklwblove/blog/issues/69)
 
 ---
 
