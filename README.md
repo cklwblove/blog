@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-01-12 02:26:53"/>
+    <img src="https://badgen.net/badge/last-commit/2021-01-12 05:29:09"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -20,6 +20,23 @@
 ## 置顶 :thumbsup: 
 - [微信浏览器H5页面软键盘关闭导致页面空缺的问题](https://github.com/cklwblove/blog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [echarts按需加载及懒加载使用方法](https://github.com/cklwblove/blog/issues/76) <sup>0 :speech_balloon:</sup> 	 2021-01-12 05:28:31
+
+:label: : [:fire: 前端](https://github.com/cklwblove/blog/labels/%3Afire%3A%20%E5%89%8D%E7%AB%AF)
+
+## 新建 `echarts.js` 文件
+```
+// plugins/echart.js
+
+import echarts from 'echarts/lib/echarts';
+import 'echarts/lib/chart/bar';
+import 'echarts/lib/c
+
+[更多>>>](https://github.com/cklwblove/blog/issues/76)
+
+---
+
 
 #### [axios-服务端返回数据中数字太大导致精度丢失问题解决方案](https://github.com/cklwblove/blog/issues/75) <sup>0 :speech_balloon:</sup> 	 2021-01-12 02:26:14
 
@@ -77,26 +94,6 @@ https://twindy.org/webpackda-bao-umdde-exportwen-ti/
 ---
 
 
-#### [optioanl chaining 可选链](https://github.com/cklwblove/blog/issues/71) <sup>0 :speech_balloon:</sup> 	 2020-09-03 02:00:23
-
-:label: : 
-
-安装
-```
-yarn add @babel/plugin-proposal-optional-chaining --dev
-```
-使用
-```
-{
-  "plugins": ["@babel/plugin-proposal-optional-chaining"]
-}
-```
-
-[更多>>>](https://github.com/cklwblove/blog/issues/71)
-
----
-
-
 ## 分类  :card_file_box:
 
 <details open="open">
@@ -128,8 +125,9 @@ yarn add @babel/plugin-proposal-optional-chaining --dev
 </details>
 
 <details>
-<summary>:fire: 前端	<sup>19:newspaper:</sup></summary>
+<summary>:fire: 前端	<sup>20:newspaper:</sup></summary>
 
+- [echarts按需加载及懒加载使用方法](https://github.com/cklwblove/blog/issues/76)  <sup>0 :speech_balloon:</sup>  	 
 - [img 标签插入图片返回403，浏览器可以直接打开](https://github.com/cklwblove/blog/issues/73)  <sup>0 :speech_balloon:</sup>  	 
 - [移动端混合式开发时，html强缓存的问题](https://github.com/cklwblove/blog/issues/61)  <sup>1 :speech_balloon:</sup>  	 
 - [Gradient has outdated direction syntax. New syntax is like `closest-side at 0 0` instead of `0 0, closest-side`](https://github.com/cklwblove/blog/issues/60)  <sup>0 :speech_balloon:</sup>  	 
