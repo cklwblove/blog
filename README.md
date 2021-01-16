@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-01-12 05:29:09"/>
+    <img src="https://badgen.net/badge/last-commit/2021-01-16 15:05:11"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -20,6 +20,17 @@
 ## 置顶 :thumbsup: 
 - [微信浏览器H5页面软键盘关闭导致页面空缺的问题](https://github.com/cklwblove/blog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [CSS gradient not working on iOS](https://github.com/cklwblove/blog/issues/77) <sup>0 :speech_balloon:</sup> 	 2021-01-16 15:04:36
+
+:label: : 
+
+In mobile safari at least, you can't use the keyword transparent, you have to use rgba(255,255,255,0) instead. Proof: https://developer.apple.com/libr
+
+[更多>>>](https://github.com/cklwblove/blog/issues/77)
+
+---
+
 
 #### [echarts按需加载及懒加载使用方法](https://github.com/cklwblove/blog/issues/76) <sup>0 :speech_balloon:</sup> 	 2021-01-12 05:28:31
 
@@ -78,18 +89,6 @@ axios.get('...', {
 而浏览器可以直接打开。好像是他们的服务器做了处
 
 [更多>>>](https://github.com/cklwblove/blog/issues/73)
-
----
-
-
-#### [Webpack打包UMD的export问题](https://github.com/cklwblove/blog/issues/72) <sup>0 :speech_balloon:</sup> 	 2020-10-30 10:56:41
-
-:label: : 
-
-https://twindy.org/webpackda-bao-umdde-exportwen-ti/
-
-
-[更多>>>](https://github.com/cklwblove/blog/issues/72)
 
 ---
 
