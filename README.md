@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-01-16 15:05:11"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-14 07:34:16"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -20,6 +20,19 @@
 ## 置顶 :thumbsup: 
 - [微信浏览器H5页面软键盘关闭导致页面空缺的问题](https://github.com/cklwblove/blog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [加载 mp4 文件出现 403](https://github.com/cklwblove/blog/issues/78) <sup>0 :speech_balloon:</sup> 	 2021-05-14 07:33:44
+
+:label: : 
+
+```
+<video src="http://XXXX.com/download/test.MP4" type="video/mp4" autoplay="autoplay" controls="controls" loop="-1" poster="false.png">
+  </video>
+
+[更多>>>](https://github.com/cklwblove/blog/issues/78)
+
+---
+
 
 #### [CSS gradient not working on iOS](https://github.com/cklwblove/blog/issues/77) <sup>0 :speech_balloon:</sup> 	 2021-01-16 15:04:36
 
@@ -77,18 +90,6 @@ axios.get('...', {
 如果路由上的 query 中有一些是从上游链路上传下来的，那么需要在应用的任何路由中携带，但是在所有跳转路由的地方都设置一遍会非常麻烦。例如，在应用中的所有路由上都添加参数：https://berwin.me/a?referer=hao360cn 和 h
 
 [更多>>>](https://github.com/cklwblove/blog/issues/74)
-
----
-
-
-#### [img 标签插入图片返回403，浏览器可以直接打开](https://github.com/cklwblove/blog/issues/73) <sup>0 :speech_balloon:</sup> 	 2020-12-01 06:57:58
-
-:label: : [:fire: 前端](https://github.com/cklwblove/blog/labels/%3Afire%3A%20%E5%89%8D%E7%AB%AF)
-
-> 在本地页面里用img标签访问页面图片返回403 forbidden，如https://images2015.cnblogs.com/blog/138012/201610/138012-20161022224150045-30962603.png。
-而浏览器可以直接打开。好像是他们的服务器做了处
-
-[更多>>>](https://github.com/cklwblove/blog/issues/73)
 
 ---
 
