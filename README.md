@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-20 11:47:03"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-21 08:21:15"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -20,6 +20,25 @@
 ## 置顶 :thumbsup: 
 - [微信浏览器H5页面软键盘关闭导致页面空缺的问题](https://github.com/cklwblove/blog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [nginx跨域处理](https://github.com/cklwblove/blog/issues/80) <sup>0 :speech_balloon:</sup> 	 2021-05-21 08:20:37
+
+:label: : 
+
+下面的这段 `nginx` 配置，对于前端开发者足够了
+
+```
+http {
+    # 开启gzip
+    gzip on;
+    # 开启gzip_static
+    # gzip_static开启后可能会报错，需要安装相应的模块
+    # 只有这个开启，vue文件打包
+
+[更多>>>](https://github.com/cklwblove/blog/issues/80)
+
+---
+
 
 #### [iOS 调起键盘，收起后点击不了。input 点击事件错位](https://github.com/cklwblove/blog/issues/79) <sup>0 :speech_balloon:</sup> 	 2021-05-20 11:46:26
 
@@ -71,26 +90,6 @@ import 'echarts/lib/chart/bar';
 import 'echarts/lib/c
 
 [更多>>>](https://github.com/cklwblove/blog/issues/76)
-
----
-
-
-#### [axios-服务端返回数据中数字太大导致精度丢失问题解决方案](https://github.com/cklwblove/blog/issues/75) <sup>0 :speech_balloon:</sup> 	 2021-01-12 02:26:14
-
-:label: : 
-
-> 可以使用 [json-bigint[(https://www.npmjs.com/package/json-bigint) 来解决
-
-## 安装
-```
-yarn add json-bigint
-```
-
-## axios 修改配置
-```
-axios.get('...', {
-
-[更多>>>](https://github.com/cklwblove/blog/issues/75)
 
 ---
 
