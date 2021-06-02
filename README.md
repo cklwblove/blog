@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-26 05:08:54"/>
+    <img src="https://badgen.net/badge/last-commit/2021-06-02 15:19:46"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -23,7 +23,7 @@
 
 #### [nginx跨域处理](https://github.com/cklwblove/blog/issues/80) <sup>0 :speech_balloon:</sup> 	 2021-05-21 08:20:37
 
-:label: : 
+:label: : [Nginx](https://github.com/cklwblove/blog/labels/Nginx)
 
 下面的这段 `nginx` 配置，对于前端开发者足够了
 
@@ -55,7 +55,7 @@ http {
 
 #### [加载 mp4 文件出现 403](https://github.com/cklwblove/blog/issues/78) <sup>0 :speech_balloon:</sup> 	 2021-05-14 07:33:44
 
-:label: : 
+:label: : [:fire: 前端](https://github.com/cklwblove/blog/labels/%3Afire%3A%20%E5%89%8D%E7%AB%AF)
 
 ```
 <video src="http://XXXX.com/download/test.MP4" type="video/mp4" autoplay="autoplay" controls="controls" loop="-1" poster="false.png">
@@ -68,7 +68,7 @@ http {
 
 #### [CSS gradient not working on iOS](https://github.com/cklwblove/blog/issues/77) <sup>0 :speech_balloon:</sup> 	 2021-01-16 15:04:36
 
-:label: : 
+:label: : [:fire: 前端](https://github.com/cklwblove/blog/labels/%3Afire%3A%20%E5%89%8D%E7%AB%AF)
 
 In mobile safari at least, you can't use the keyword transparent, you have to use rgba(255,255,255,0) instead. Proof: https://developer.apple.com/libr
 
@@ -125,8 +125,10 @@ import 'echarts/lib/c
 </details>
 
 <details>
-<summary>:fire: 前端	<sup>20:newspaper:</sup></summary>
+<summary>:fire: 前端	<sup>22:newspaper:</sup></summary>
 
+- [加载 mp4 文件出现 403](https://github.com/cklwblove/blog/issues/78)  <sup>0 :speech_balloon:</sup>  	 
+- [CSS gradient not working on iOS](https://github.com/cklwblove/blog/issues/77)  <sup>0 :speech_balloon:</sup>  	 
 - [echarts按需加载及懒加载使用方法](https://github.com/cklwblove/blog/issues/76)  <sup>0 :speech_balloon:</sup>  	 
 - [img 标签插入图片返回403，浏览器可以直接打开](https://github.com/cklwblove/blog/issues/73)  <sup>0 :speech_balloon:</sup>  	 
 - [移动端混合式开发时，html强缓存的问题](https://github.com/cklwblove/blog/issues/61)  <sup>1 :speech_balloon:</sup>  	 
@@ -160,8 +162,9 @@ import 'echarts/lib/c
 </details>
 
 <details>
-<summary>Nginx	<sup>2:newspaper:</sup></summary>
+<summary>Nginx	<sup>3:newspaper:</sup></summary>
 
+- [nginx跨域处理](https://github.com/cklwblove/blog/issues/80)  <sup>0 :speech_balloon:</sup>  	 
 - [Nginx 相关命令](https://github.com/cklwblove/blog/issues/41)  <sup>0 :speech_balloon:</sup>  	 
 - [Nginx的 gzip设置](https://github.com/cklwblove/blog/issues/21)  <sup>0 :speech_balloon:</sup>  	 
 
