@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-02 15:19:46"/>
+    <img src="https://badgen.net/badge/last-commit/2021-06-03 02:37:27"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -20,6 +20,23 @@
 ## 置顶 :thumbsup: 
 - [微信浏览器H5页面软键盘关闭导致页面空缺的问题](https://github.com/cklwblove/blog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [crypto-js 库按需引用及懒加载](https://github.com/cklwblove/blog/issues/81) <sup>0 :speech_balloon:</sup> 	 2021-06-03 02:36:56
+
+:label: : [:fire: 前端](https://github.com/cklwblove/blog/labels/%3Afire%3A%20%E5%89%8D%E7%AB%AF)
+
+```js
+1. 新建 crypto.js
+
+import AES from 'crypto-js/aes';
+import Base64 from 'crypto-js/enc-base64';
+import Utf8 from 'crypto-js/enc-utf8';
+import
+
+[更多>>>](https://github.com/cklwblove/blog/issues/81)
+
+---
+
 
 #### [nginx跨域处理](https://github.com/cklwblove/blog/issues/80) <sup>0 :speech_balloon:</sup> 	 2021-05-21 08:20:37
 
@@ -77,23 +94,6 @@ In mobile safari at least, you can't use the keyword transparent, you have to us
 ---
 
 
-#### [echarts按需加载及懒加载使用方法](https://github.com/cklwblove/blog/issues/76) <sup>0 :speech_balloon:</sup> 	 2021-01-12 05:28:31
-
-:label: : [:fire: 前端](https://github.com/cklwblove/blog/labels/%3Afire%3A%20%E5%89%8D%E7%AB%AF)
-
-## 新建 `echarts.js` 文件
-```
-// plugins/echart.js
-
-import echarts from 'echarts/lib/echarts';
-import 'echarts/lib/chart/bar';
-import 'echarts/lib/c
-
-[更多>>>](https://github.com/cklwblove/blog/issues/76)
-
----
-
-
 ## 分类  :card_file_box:
 
 <details open="open">
@@ -125,8 +125,9 @@ import 'echarts/lib/c
 </details>
 
 <details>
-<summary>:fire: 前端	<sup>22:newspaper:</sup></summary>
+<summary>:fire: 前端	<sup>23:newspaper:</sup></summary>
 
+- [crypto-js 库按需引用及懒加载](https://github.com/cklwblove/blog/issues/81)  <sup>0 :speech_balloon:</sup>  	 
 - [加载 mp4 文件出现 403](https://github.com/cklwblove/blog/issues/78)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS gradient not working on iOS](https://github.com/cklwblove/blog/issues/77)  <sup>0 :speech_balloon:</sup>  	 
 - [echarts按需加载及懒加载使用方法](https://github.com/cklwblove/blog/issues/76)  <sup>0 :speech_balloon:</sup>  	 
