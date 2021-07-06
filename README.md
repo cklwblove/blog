@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-11 15:09:52"/>
+    <img src="https://badgen.net/badge/last-commit/2021-07-06 00:26:03"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -20,6 +20,19 @@
 ## 置顶 :thumbsup: 
 - [微信浏览器H5页面软键盘关闭导致页面空缺的问题](https://github.com/cklwblove/blog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [通用的浏览器统计数据](https://github.com/cklwblove/blog/issues/82) <sup>0 :speech_balloon:</sup> 	 2021-07-06 00:25:36
+
+:label: : 
+
+- [百度流量研究院](https://tongji.baidu.com/research/)：主要提供国内浏览器统计
+- [statcounter](http://gs.statcounter.com/): 国际浏览器统计
+- [浏览器发布年份统计](https://en.wikipedia.
+
+[更多>>>](https://github.com/cklwblove/blog/issues/82)
+
+---
+
 
 #### [crypto-js 库按需引用及懒加载](https://github.com/cklwblove/blog/issues/81) <sup>0 :speech_balloon:</sup> 	 2021-06-03 02:36:56
 
@@ -79,17 +92,6 @@ http {
   </video>
 
 [更多>>>](https://github.com/cklwblove/blog/issues/78)
-
----
-
-
-#### [CSS gradient not working on iOS](https://github.com/cklwblove/blog/issues/77) <sup>0 :speech_balloon:</sup> 	 2021-01-16 15:04:36
-
-:label: : [:fire: 前端](https://github.com/cklwblove/blog/labels/%3Afire%3A%20%E5%89%8D%E7%AB%AF)
-
-In mobile safari at least, you can't use the keyword transparent, you have to use rgba(255,255,255,0) instead. Proof: https://developer.apple.com/libr
-
-[更多>>>](https://github.com/cklwblove/blog/issues/77)
 
 ---
 
