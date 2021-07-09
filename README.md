@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-07-09 08:29:47"/>
+    <img src="https://badgen.net/badge/last-commit/2021-07-09 09:46:44"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -20,6 +20,25 @@
 ## 置顶 :thumbsup: 
 - [微信浏览器H5页面软键盘关闭导致页面空缺的问题](https://github.com/cklwblove/blog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [JSONP 的实现](https://github.com/cklwblove/blog/issues/84) <sup>0 :speech_balloon:</sup> 	 2021-07-09 09:46:15
+
+:label: : 
+
+`JSONP` 是 `JSON width Padding` 的缩写。
+
+JSONP 基于两个原理:
+
+- 动态创建 script，使用 script.src 加载请求跨过跨域
+- script.src 加载的脚本内容为 JSONP: 即 PADDING(JSON) 格式
+
+```
+
+
+[更多>>>](https://github.com/cklwblove/blog/issues/84)
+
+---
+
 
 #### [Unexpected unknown pseudo-element selector “::v-deep” selector-pseudo-element-no-unknown](https://github.com/cklwblove/blog/issues/83) <sup>0 :speech_balloon:</sup> 	 2021-07-09 08:29:14
 
@@ -83,19 +102,6 @@ http {
     # 只有这个开启，vue文件打包
 
 [更多>>>](https://github.com/cklwblove/blog/issues/80)
-
----
-
-
-#### [iOS 调起键盘，收起后点击不了。input 点击事件错位](https://github.com/cklwblove/blog/issues/79) <sup>0 :speech_balloon:</sup> 	 2021-05-20 11:46:26
-
-:label: : 
-
-在开发移动端H5的时候，在iOS的浏览器中遇到过一个巨坑。
-
-在做一个移动端登录的页面，页面需要输入手机号密码，当点击input输入框，点击完成，iOS键盘消失，input失去焦点，这时候发现再次点击input框的时候不能够获取焦点了。点击事件发生了错位，比如点击了上面，可是实际出发点击事件的位
-
-[更多>>>](https://github.com/cklwblove/blog/issues/79)
 
 ---
 
