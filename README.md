@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-07-08 09:50:49"/>
+    <img src="https://badgen.net/badge/last-commit/2021-07-09 08:29:47"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -20,6 +20,23 @@
 ## 置顶 :thumbsup: 
 - [微信浏览器H5页面软键盘关闭导致页面空缺的问题](https://github.com/cklwblove/blog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Unexpected unknown pseudo-element selector “::v-deep” selector-pseudo-element-no-unknown](https://github.com/cklwblove/blog/issues/83) <sup>0 :speech_balloon:</sup> 	 2021-07-09 08:29:14
+
+:label: : 
+
+解决方案：
+
+- 使 `selector-pseudo-element-no-unknown` 无效
+```
+## stylelint.config.js
+module.exports = {
+  extends: ['stylelint-config-standard', 'style
+
+[更多>>>](https://github.com/cklwblove/blog/issues/83)
+
+---
+
 
 #### [通用的浏览器统计数据](https://github.com/cklwblove/blog/issues/82) <sup>0 :speech_balloon:</sup> 	 2021-07-06 00:25:36
 
@@ -79,19 +96,6 @@ http {
 在做一个移动端登录的页面，页面需要输入手机号密码，当点击input输入框，点击完成，iOS键盘消失，input失去焦点，这时候发现再次点击input框的时候不能够获取焦点了。点击事件发生了错位，比如点击了上面，可是实际出发点击事件的位
 
 [更多>>>](https://github.com/cklwblove/blog/issues/79)
-
----
-
-
-#### [加载 mp4 文件出现 403](https://github.com/cklwblove/blog/issues/78) <sup>0 :speech_balloon:</sup> 	 2021-05-14 07:33:44
-
-:label: : [:fire: 前端](https://github.com/cklwblove/blog/labels/%3Afire%3A%20%E5%89%8D%E7%AB%AF)
-
-```
-<video src="http://XXXX.com/download/test.MP4" type="video/mp4" autoplay="autoplay" controls="controls" loop="-1" poster="false.png">
-  </video>
-
-[更多>>>](https://github.com/cklwblove/blog/issues/78)
 
 ---
 
