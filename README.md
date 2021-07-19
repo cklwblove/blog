@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/20"/>
     <img src="https://badgen.net/github/issues/cklwblove/blog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-07-14 06:57:59"/>
+    <img src="https://badgen.net/badge/last-commit/2021-07-19 06:01:14"/>
     <img src="https://badgen.net/github/forks/cklwblove/blog"/>
     <img src="https://badgen.net/github/stars/cklwblove/blog"/>
     <img src="https://badgen.net/github/watchers/cklwblove/blog"/>
@@ -95,11 +95,11 @@ import
 
 ```
 http {
-    # 开启gzip
-    gzip on;
-    # 开启gzip_static
-    # gzip_static开启后可能会报错，需要安装相应的模块
-    # 只有这个开启，vue文件打包
+  # 开启gzip
+  gzip on;
+  # 开启gzip_static
+  # gzip_static开启后可能会报错，需要安装相应的模块
+  # 只有这个开启，vue文件打包的.gz文件才会有效
 
 [更多>>>](https://github.com/cklwblove/blog/issues/80)
 
